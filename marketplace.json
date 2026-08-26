@@ -1,0 +1,134 @@
+{
+  "name": "zcode-plugins-official",
+  "description": "Official ZCode plugins marketplace: built-in and community plugins for ZCode.",
+  "description_i18n": {
+    "en": "Official ZCode plugins marketplace: built-in and community plugins for ZCode.",
+    "zh-CN": "ZCode 官方插件市场：收录 ZCode 内置插件与社区贡献插件。"
+  },
+  "owner": {
+    "name": "Z.ai",
+    "url": "https://z.ai"
+  },
+  "plugins": [
+    {
+      "name": "example-plugin",
+      "source": "./plugins/example-plugin",
+      "description": "A minimal ZCode template plugin demonstrating the recommended structure: manifest, command, skill, hooks, and MCP sample config. Copy it to start a new plugin.",
+      "description_i18n": {
+        "en": "A minimal ZCode template plugin demonstrating the recommended structure: manifest, command, skill, hooks, and MCP sample config. Copy it to start a new plugin.",
+        "zh-CN": "一个最小 ZCode 模板插件，演示推荐目录结构（manifest、command、skill、hooks、MCP 样例配置）。新建插件时可直接复制。"
+      },
+      "version": "0.3.0",
+      "author": {
+        "name": "Z.ai"
+      },
+      "category": "template",
+      "keywords": [
+        "template",
+        "example",
+        "starter",
+        "hooks",
+        "mcp"
+      ]
+    },
+    {
+      "name": "cloudbase-skills",
+      "source": "./plugins/cloudbase-skills",
+      "description": "CloudBase development skills and MCP integration for building, deploying, and troubleshooting Web, WeChat Mini Program, database, cloud function, CloudRun, storage, and AI projects.",
+      "description_i18n": {
+        "en": "CloudBase development skills and MCP integration for building, deploying, and troubleshooting Web, WeChat Mini Program, database, cloud function, CloudRun, storage, and AI projects.",
+        "zh-CN": "腾讯云 CloudBase 开发技能与 MCP 集成，覆盖 Web、微信小程序、数据库、云函数、云托管、云存储和 AI 项目的开发、部署与排障。"
+      },
+      "version": "0.1.0",
+      "author": {
+        "name": "TencentCloudBase"
+      },
+      "icon": "https://docs.cloudbase.net/en/img/favicon.png",
+      "category": "developer-tools",
+      "keywords": [
+        "cloudbase",
+        "tencent-cloud",
+        "wechat",
+        "serverless",
+        "mcp"
+      ]
+    },
+    {
+      "name": "mimosa",
+      "source": "./plugins/mimosa",
+      "displayName": "Code Security Protection",
+      "displayName_i18n": {
+        "en": "Code Security Protection",
+        "zh-CN": "代码安全防护"
+      },
+      "icon": "https://cdn-zcode.z.ai/zcode/official-plugin/assets/mimosa/icon.png",
+      "description": "Local-first security guardrails for ZCode with pre-write hooks, end-of-turn review, Git gates, commands, a security-scan skill, and an optional MCP server for sealed deep scans.",
+      "description_i18n": {
+        "en": "Local-first security guardrails for ZCode with pre-write hooks, end-of-turn review, Git gates, commands, a security-scan skill, and an optional MCP server for sealed deep scans.",
+        "zh-CN": "面向 ZCode 的本地优先代码安全防线，提供写入前 Hook、任务收尾复查、Git 门禁、命令、安全扫描 Skill，以及用于密封深扫的可选 MCP 服务。"
+      },
+      "version": "1.0.3",
+      "author": {
+        "name": "Mimosa"
+      },
+      "category": "developer-tools",
+      "keywords": [
+        "security",
+        "code-scanning",
+        "hooks",
+        "mcp",
+        "sdlc"
+      ]
+    },
+    {
+      "name": "github",
+      "source": "./plugins/github",
+      "description": "GitHub CLI workflows for commits, pull requests, issues, releases, Actions, repositories, Codespaces, and other GitHub resources.",
+      "description_i18n": {
+        "en": "GitHub CLI workflows for commits, pull requests, issues, releases, Actions, repositories, Codespaces, and other GitHub resources.",
+        "zh-CN": "基于 GitHub CLI 的 GitHub 工作流，覆盖提交、Pull Request、Issue、Release、Actions、仓库、Codespaces 等资源。"
+      },
+      "version": "0.1.2",
+      "author": {
+        "name": "Z.ai",
+        "url": "https://z.ai"
+      },
+      "icon": "https://cdn-zcode.z.ai/zcode/official-plugin/assets/github/icon.png",
+      "category": "developer-tools",
+      "keywords": [
+        "git",
+        "github",
+        "github-cli",
+        "gh",
+        "pull-request",
+        "issues",
+        "actions",
+        "codespaces"
+      ]
+    },
+     {
+      "name": "video-agent-kit",
+      "source": "./plugins/video-agent-kit",
+      "requiresPaidPlan": true,
+      "description": "自动化视频剪辑工具包: 标准云端语音转录与合成、完整视频抽帧理解、局部复看、时间线、预览渲染、QC 和 TTS。",
+      "description_i18n": {
+        "en": "Automated video editing toolkit: standard cloud speech transcription and synthesis, full video frame extraction and understanding, local re-inspection, timeline, preview rendering, QC, and TTS.",
+        "zh-CN": "自动化视频剪辑工具包: 标准云端语音转录与合成、完整视频抽帧理解、局部复看、时间线、预览渲染、QC 和 TTS。"
+      },
+      "version": "0.4.3",
+      "author": {
+        "name": "Z.ai",
+        "url": "https://z.ai"
+      },
+      "icon": "https://cdn-zcode.z.ai/zcode/official-plugin/assets/video-agent/icon.png",
+      "category": "productivity",
+      "keywords": [
+        "video-editing",
+        "video-agent",
+        "visual-inspection",
+        "timeline",
+        "ffmpeg"
+      ]
+    }
+  ]
+}

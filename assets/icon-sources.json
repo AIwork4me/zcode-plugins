@@ -1,0 +1,2053 @@
+[
+  {
+    "name": "42crunch-api-security-testing",
+    "icon": "42crunch-api-security-testing/icon.png",
+    "source": "https://42crunch.com/wp-content/uploads/2025/11/cropped-42Crunch-Symbol-v3-180x180.png",
+    "matchedBy": "official-homepage-apple-touch-icon",
+    "homepage": "https://42crunch.com",
+    "mimeType": "image/png",
+    "sha256": "1d5e062d6d35dc158e39bc77c6a849afa2703279afd5e39bc6c79106449180cd"
+  },
+  {
+    "name": "adobe-for-creativity",
+    "icon": "adobe-for-creativity/icon.png",
+    "source": "https://www.adobe.com/favicon.ico",
+    "matchedBy": "official-homepage-favicon-converted",
+    "mimeType": "image/png",
+    "sha256": "3b0327200d2f47b111874852b68ac30ce31b858e2d52f01c206fb8688d1cd61a"
+  },
+  {
+    "name": "agent-sdk-dev",
+    "icon": "agent-sdk-dev/icon.png",
+    "source": "/Users/utom/Downloads/agent.png",
+    "mimeType": "image/png",
+    "sha256": "2a754905cddc1366c11b1e5e7f6ec782739505a4a75e124257f53c279e6db1a6"
+  },
+  {
+    "name": "agentforce-adlc",
+    "icon": "agentforce-adlc/icon.png",
+    "source": "https://github.com/SalesforceAIResearch.png?size=512",
+    "matchedBy": "official-github-organization-avatar",
+    "mimeType": "image/png",
+    "sha256": "894bce89f578bbad5b2f7c000131d23ac5d4d3caa5fa52fef5a862635b904e7c"
+  },
+  {
+    "name": "ai-plugins",
+    "icon": "ai-plugins/icon.png",
+    "source": "https://github.com/endorlabs/ai-plugins/blob/main/assets/logo.png",
+    "matchedBy": "official-repository-asset",
+    "mimeType": "image/png",
+    "sha256": "c09266885efa78c1ae0779582aa8a59ff09b638c300286d91bcbb942ee5e697a"
+  },
+  {
+    "name": "aikido",
+    "icon": "aikido/icon.png",
+    "source": "https://github.com/AikidoSec.png?size=512",
+    "matchedBy": "official-github-organization-avatar",
+    "mimeType": "image/png",
+    "sha256": "74a058369a7c56c742094b290c0035333efde2fa8b9f6047fd96de14843d5538"
+  },
+  {
+    "name": "airtable",
+    "icon": "airtable/icon.png",
+    "source": "/plugins/airtable/assets/logo.png",
+    "mimeType": "image/png",
+    "sha256": "1f22f653035618cc024c7c4bdf180a0ad16e0db96fe07dabb20bcd7256fef7e0"
+  },
+  {
+    "name": "airwallex-agentos",
+    "icon": "airwallex-agentos/icon.png",
+    "source": "https://www.airwallex.com/favicon.ico",
+    "matchedBy": "official-homepage-fallback",
+    "homepage": "https://www.airwallex.com/docs",
+    "mimeType": "image/png",
+    "sha256": "63039fda32a14604a62d298a3ac48783dcba478fc2a2b09f2c18636dfd5f3225"
+  },
+  {
+    "name": "alloydb",
+    "icon": "alloydb/icon.png",
+    "source": "https://services.google.com/fh/files/misc/core-products-icons.zip",
+    "matchedBy": "official-product-icon-library",
+    "mimeType": "image/png",
+    "sha256": "df7e229e5a4bc2e5b792dc564ee98e65bf06fb5b8d0ccd12b0e6c6000275c487"
+  },
+  {
+    "name": "alloydb-omni",
+    "icon": "alloydb-omni/icon.png",
+    "source": "https://services.google.com/fh/files/misc/core-products-icons.zip",
+    "matchedBy": "official-product-icon-library",
+    "mimeType": "image/png",
+    "sha256": "df7e229e5a4bc2e5b792dc564ee98e65bf06fb5b8d0ccd12b0e6c6000275c487"
+  },
+  {
+    "name": "amazon-location-service",
+    "icon": "amazon-location-service/icon.png",
+    "source": "https://a0.awsstatic.com/libra-css/images/site/touch-icon-ipad-144-smile.png",
+    "matchedBy": "official-homepage-apple-touch-icon",
+    "mimeType": "image/png",
+    "sha256": "461bba96760190de10cdafb2fbb05fdb18699ddc44ea57c1f363a304b16c92b5"
+  },
+  {
+    "name": "amd-skills",
+    "icon": "amd-skills/icon.png",
+    "source": "https://developer.amd.com/apple-touch-icon.png",
+    "matchedBy": "official-homepage-apple-touch-icon",
+    "homepage": "https://developer.amd.com/",
+    "mimeType": "image/png",
+    "sha256": "4c35c832609bc77c908f47150b34c4755ff8c23d19d5fd78f7a39df9978110eb"
+  },
+  {
+    "name": "amplitude",
+    "icon": "amplitude/icon.png",
+    "source": "/plugins/amplitude/assets/app-icon.png",
+    "mimeType": "image/png",
+    "sha256": "4ab8dff145da9ac1bb15e0cebdbd8c183cbaf9e42255236be2805dce1be01717"
+  },
+  {
+    "name": "android-emulator",
+    "icon": "android-emulator/icon.png",
+    "source": "https://www.gstatic.com/devrel-devsite/prod/v86d4242899d0b9c3c3542409bdd63e021381cf8309eb1da531e08bd4193a5020/android/images/touchicon-180.png",
+    "matchedBy": "official-homepage-apple-touch-icon",
+    "homepage": "https://developer.android.com/studio/run/emulator",
+    "mimeType": "image/png",
+    "sha256": "ead629480a3a5c6d50a2133690e7917e70bb64d51ee48cd905ae498afdc75d6b"
+  },
+  {
+    "name": "apollo",
+    "icon": "apollo/icon.png",
+    "source": "/plugins/apollo/assets/logo.png",
+    "mimeType": "image/png",
+    "sha256": "623f08d10569205126db67e52a66365e96560273ce74906c47780df61628bb83"
+  },
+  {
+    "name": "apollo-skills",
+    "icon": "apollo-skills/icon.png",
+    "source": "https://www.apollographql.com/favicon/apple-icon-180x180.png",
+    "matchedBy": "official-homepage-apple-touch-icon",
+    "homepage": "https://www.apollographql.com",
+    "mimeType": "image/png",
+    "sha256": "fc8e9b3eb6560c0dc2bbc10a781db931ddd385e6afc7c38742172e8617fff6f4"
+  },
+  {
+    "name": "appwrite",
+    "icon": "appwrite/icon.png",
+    "source": "https://appwrite.io/images/logos/icons/apple-touch-icon-180x180.png",
+    "matchedBy": "official-homepage-apple-touch-icon",
+    "homepage": "https://appwrite.io",
+    "mimeType": "image/png",
+    "sha256": "b718dfa9b92c42535d01515da4ec6e63c7e2984f2df7ffced3c4753cf0ead5a9"
+  },
+  {
+    "name": "asana",
+    "icon": "asana/icon.png",
+    "source": "/plugins/asana/assets/logo.png",
+    "mimeType": "image/png",
+    "sha256": "d3dcb5989752fb78ce7b489f1149ededac2bb588e8ff1557ab51c19361a76309"
+  },
+  {
+    "name": "astronomer-data-agents",
+    "icon": "astronomer-data-agents/icon.png",
+    "source": "https://github.com/astronomer.png?size=512",
+    "matchedBy": "official-github-organization-avatar",
+    "mimeType": "image/png",
+    "sha256": "ad7a2d585b444c8f1f161b66969c5e9f9901b72e1ffa21b89635930fc8aab649"
+  },
+  {
+    "name": "atlan",
+    "icon": "atlan/icon.png",
+    "source": "https://docs.atlan.com/img/atlan.ico",
+    "matchedBy": "official-homepage-icon",
+    "homepage": "https://docs.atlan.com/",
+    "mimeType": "image/png",
+    "sha256": "5d04397aba5bf6be2cf57fcef4df9435e45440c326ce205f2ca700c96e801e69"
+  },
+  {
+    "name": "atlassian",
+    "icon": "atlassian/icon.png",
+    "source": "/plugins/atlassian-rovo/assets/logo.png",
+    "matchedBy": "alias:atlassian-rovo",
+    "mimeType": "image/png",
+    "sha256": "a5507644eb467760548bcb57b9c45ea7a5a2e22e905ad944c7a11e82443b9743"
+  },
+  {
+    "name": "atomic-agents",
+    "icon": "atomic-agents/icon.png",
+    "source": "https://github.com/BrainBlend-AI.png?size=512",
+    "matchedBy": "official-github-organization-avatar",
+    "mimeType": "image/png",
+    "sha256": "64030862bd2b61cbd29c0f853e037f44bac90574cde2b962b8923e27b53af1d1"
+  },
+  {
+    "name": "auth0",
+    "icon": "auth0/icon.png",
+    "source": "https://cdn.auth0.com/website/website/favicons/auth0-favicon-180.png",
+    "matchedBy": "official-homepage-apple-touch-icon",
+    "homepage": "https://auth0.com",
+    "mimeType": "image/png",
+    "sha256": "0f7bde3ac13b431b55354af1265813af370dadb13094d4f581831e43509fbce4"
+  },
+  {
+    "name": "aws-agents",
+    "icon": "aws-agents/icon.png",
+    "source": "https://a0.awsstatic.com/libra-css/images/site/touch-icon-ipad-144-smile.png",
+    "matchedBy": "official-homepage-apple-touch-icon",
+    "mimeType": "image/png",
+    "sha256": "461bba96760190de10cdafb2fbb05fdb18699ddc44ea57c1f363a304b16c92b5"
+  },
+  {
+    "name": "aws-agents-for-devsecops",
+    "icon": "aws-agents-for-devsecops/icon.png",
+    "source": "https://a0.awsstatic.com/libra-css/images/site/touch-icon-ipad-144-smile.png",
+    "matchedBy": "official-homepage-apple-touch-icon",
+    "mimeType": "image/png",
+    "sha256": "461bba96760190de10cdafb2fbb05fdb18699ddc44ea57c1f363a304b16c92b5"
+  },
+  {
+    "name": "aws-amplify",
+    "icon": "aws-amplify/icon.png",
+    "source": "https://a0.awsstatic.com/libra-css/images/site/touch-icon-ipad-144-smile.png",
+    "matchedBy": "official-homepage-apple-touch-icon",
+    "mimeType": "image/png",
+    "sha256": "461bba96760190de10cdafb2fbb05fdb18699ddc44ea57c1f363a304b16c92b5"
+  },
+  {
+    "name": "aws-core",
+    "icon": "aws-core/icon.png",
+    "source": "https://a0.awsstatic.com/libra-css/images/site/touch-icon-ipad-144-smile.png",
+    "matchedBy": "official-homepage-apple-touch-icon",
+    "mimeType": "image/png",
+    "sha256": "461bba96760190de10cdafb2fbb05fdb18699ddc44ea57c1f363a304b16c92b5"
+  },
+  {
+    "name": "aws-data-analytics",
+    "icon": "aws-data-analytics/icon.png",
+    "source": "https://a0.awsstatic.com/libra-css/images/site/touch-icon-ipad-144-smile.png",
+    "matchedBy": "official-homepage-apple-touch-icon",
+    "mimeType": "image/png",
+    "sha256": "461bba96760190de10cdafb2fbb05fdb18699ddc44ea57c1f363a304b16c92b5"
+  },
+  {
+    "name": "aws-dev-toolkit",
+    "icon": "aws-dev-toolkit/icon.png",
+    "source": "https://a0.awsstatic.com/libra-css/images/site/touch-icon-ipad-144-smile.png",
+    "matchedBy": "official-homepage-apple-touch-icon",
+    "mimeType": "image/png",
+    "sha256": "461bba96760190de10cdafb2fbb05fdb18699ddc44ea57c1f363a304b16c92b5"
+  },
+  {
+    "name": "aws-serverless",
+    "icon": "aws-serverless/icon.png",
+    "source": "https://a0.awsstatic.com/libra-css/images/site/touch-icon-ipad-144-smile.png",
+    "matchedBy": "official-homepage-apple-touch-icon",
+    "mimeType": "image/png",
+    "sha256": "461bba96760190de10cdafb2fbb05fdb18699ddc44ea57c1f363a304b16c92b5"
+  },
+  {
+    "name": "aws-startup-advisor",
+    "icon": "aws-startup-advisor/icon.png",
+    "source": "https://a0.awsstatic.com/libra-css/images/site/touch-icon-ipad-144-smile.png",
+    "matchedBy": "official-homepage-apple-touch-icon",
+    "mimeType": "image/png",
+    "sha256": "461bba96760190de10cdafb2fbb05fdb18699ddc44ea57c1f363a304b16c92b5"
+  },
+  {
+    "name": "aws-transform",
+    "icon": "aws-transform/icon.png",
+    "source": "https://a0.awsstatic.com/libra-css/images/site/touch-icon-ipad-144-smile.png",
+    "matchedBy": "official-homepage-apple-touch-icon",
+    "mimeType": "image/png",
+    "sha256": "461bba96760190de10cdafb2fbb05fdb18699ddc44ea57c1f363a304b16c92b5"
+  },
+  {
+    "name": "azure",
+    "icon": "azure/icon.png",
+    "source": "https://github.com/microsoft/azure-skills/blob/7e172d6883f11ddb5d357deadddd02d6d9cab829/landing-page/public/favicon.svg",
+    "matchedBy": "official-repository-app-icon",
+    "mimeType": "image/png",
+    "sha256": "469176393d838fc77ec73777db5e5cf2ad4825c3371fe099896891e37e237571"
+  },
+  {
+    "name": "azure-cosmos-db-assistant",
+    "icon": "azure-cosmos-db-assistant/icon.png",
+    "source": "https://github.com/AzureCosmosDB/cosmosdb-claude-code-plugin/blob/f1e0498579a9251e5f3179b92d25d6ce3409bae5/assets/logo.svg",
+    "matchedBy": "official-repository-app-icon",
+    "mimeType": "image/png",
+    "sha256": "664e3c403dbcef17364d359e3e31baef14daa8050228fb73e6adb0aa55cd40ea"
+  },
+  {
+    "name": "base44",
+    "icon": "base44/icon.png",
+    "source": "/plugins/base44/assets/logo-padded.png",
+    "mimeType": "image/png",
+    "sha256": "c4c8188c23e1fb6aeab7f3a1258426210b735fab94fda69f8ce2d84c9fcdce86"
+  },
+  {
+    "name": "bigdata-com",
+    "icon": "bigdata-com/icon.png",
+    "source": "https://docs.bigdata.com/mintlify-assets/_mintlify/favicons/ravenpackinternational/0ZQJThiL-hYHaY_C/_generated/favicon/apple-touch-icon.png",
+    "matchedBy": "official-homepage-apple-touch-icon",
+    "homepage": "https://docs.bigdata.com",
+    "mimeType": "image/png",
+    "sha256": "33749594cf8c975b08793021cfc9ea076e23fe635609d1afd4e73812725caea2"
+  },
+  {
+    "name": "bigquery-data-analytics",
+    "icon": "bigquery-data-analytics/icon.png",
+    "source": "https://services.google.com/fh/files/misc/core-products-icons.zip",
+    "matchedBy": "official-product-icon-library",
+    "mimeType": "image/png",
+    "sha256": "15260d714e046cc492d9d93dcb4eef282561785ae220b1754b8a54159681d1af"
+  },
+  {
+    "name": "boltz",
+    "icon": "boltz/icon.png",
+    "source": "/plugins/boltz-api-cli/assets/app-icon.png",
+    "matchedBy": "alias:boltz-api-cli",
+    "mimeType": "image/png",
+    "sha256": "69fafb05286f3d397c889368215f7ff0b23ca8597002191e42604879acd03f82"
+  },
+  {
+    "name": "box",
+    "icon": "box/icon.png",
+    "source": "/plugins/box/assets/app-icon.png",
+    "mimeType": "image/png",
+    "sha256": "d2bc920ca38f083e46c394174f99aec3fb625c23c9870d4615a474420cb0007a"
+  },
+  {
+    "name": "brightdata-plugin",
+    "icon": "brightdata-plugin/icon.png",
+    "source": "https://brightdata.com/favicon.ico",
+    "matchedBy": "official-homepage-favicon",
+    "mimeType": "image/png",
+    "sha256": "ab8d9c77864ca627099778f01b260ba3e83d1547de5f992af49a756a8776c063"
+  },
+  {
+    "name": "browser-use",
+    "icon": "browser-use/icon.png",
+    "source": "/Users/utom/Downloads/Frame 768592708.png",
+    "mimeType": "image/png",
+    "sha256": "995cb91204c5b0bab250909b6478d176c80f3abfff0fb3117c65c094ee78bf99"
+  },
+  {
+    "name": "build-with-wordpress",
+    "icon": "build-with-wordpress/icon.png",
+    "source": "https://developer.wordpress.com/wp-content/uploads/2026/04/cropped-wpcom-developer-logo.png?w=180",
+    "matchedBy": "official-homepage-apple-touch-icon",
+    "homepage": "https://developer.wordpress.com/wordpress-com-claude-code-plugin/",
+    "mimeType": "image/png",
+    "sha256": "7aca6aa61da6929719afb34f03c81eca02dbe5dc9f9e2422e990b104eb054c4b"
+  },
+  {
+    "name": "buildkite",
+    "icon": "buildkite/icon.png",
+    "source": "https://buildkite.com/_site/favicon.png",
+    "matchedBy": "official-homepage-icon",
+    "homepage": "https://buildkite.com",
+    "mimeType": "image/png",
+    "sha256": "f6323ff79fbe5e7d1470a0b78ffd49305a0fe5d63132b87c2419e2c3fa7c0667"
+  },
+  {
+    "name": "canva",
+    "icon": "canva/icon.png",
+    "source": "/plugins/canva/assets/app-icon.png",
+    "mimeType": "image/png",
+    "sha256": "bdd766d00eeed4223119ff20431572bd02d2cd446a7378351189bdfbaebe7929"
+  },
+  {
+    "name": "carta-cap-table",
+    "icon": "carta-cap-table/icon.png",
+    "source": "/plugins/carta-crm/assets/logo.png",
+    "matchedBy": "brand:carta-crm",
+    "mimeType": "image/png",
+    "sha256": "fe70263c45223aa6bf25cd4bb103a69ae5e471b1f636d31836bdc0e4bd0f3704"
+  },
+  {
+    "name": "carta-crm",
+    "icon": "carta-crm/icon.png",
+    "source": "/plugins/carta-crm/assets/logo.png",
+    "mimeType": "image/png",
+    "sha256": "fe70263c45223aa6bf25cd4bb103a69ae5e471b1f636d31836bdc0e4bd0f3704"
+  },
+  {
+    "name": "carta-investors",
+    "icon": "carta-investors/icon.png",
+    "source": "/plugins/carta-crm/assets/logo.png",
+    "matchedBy": "brand:carta-crm",
+    "mimeType": "image/png",
+    "sha256": "fe70263c45223aa6bf25cd4bb103a69ae5e471b1f636d31836bdc0e4bd0f3704"
+  },
+  {
+    "name": "cds-mcp",
+    "icon": "cds-mcp/icon.png",
+    "source": "https://cap.cloud.sap/docs/logos/cap.png",
+    "matchedBy": "official-homepage-apple-touch-icon",
+    "homepage": "https://cap.cloud.sap/",
+    "mimeType": "image/png",
+    "sha256": "fc19bee2a2cfe113d319792a92e4a6abf5fb86b68b7c76c4a6bc617d3d44e455"
+  },
+  {
+    "name": "chrome-devtools-mcp",
+    "icon": "chrome-devtools-mcp/icon.png",
+    "source": "https://www.google.com/chrome/static/images/favicons/apple-icon-180x180.png",
+    "matchedBy": "official-homepage-apple-touch-icon",
+    "homepage": "https://www.google.com/chrome/",
+    "mimeType": "image/png",
+    "sha256": "fd3a2b169f68a7c55f321dc4ed38ac4100ab6ad60f121c40e03ba1f19318c54a"
+  },
+  {
+    "name": "circle-skills",
+    "icon": "circle-skills/icon.png",
+    "source": "https://cdn.prod.website-files.com/668c08d1b8a9330bd1d786ad/669a20df8ac2810a6dd50e67_favicon-256.svg",
+    "matchedBy": "official-homepage-apple-touch-icon",
+    "homepage": "https://www.circle.com",
+    "mimeType": "image/png",
+    "sha256": "98bb33248f4803973a27e674752ade8f1217fd9b53cebfbf796cb1c9702fb8ae"
+  },
+  {
+    "name": "circleback",
+    "icon": "circleback/icon.png",
+    "source": "/plugins/circleback/assets/app-icon.png",
+    "mimeType": "image/png",
+    "sha256": "a8cdf26a9e3918b2166dc8a6a198764b4cce9a76e984683d0386049ac20e85fe"
+  },
+  {
+    "name": "clangd-lsp",
+    "icon": "clangd-lsp/icon.png",
+    "source": "https://github.com/llvm.png?size=512",
+    "matchedBy": "official-github-organization-avatar",
+    "mimeType": "image/png",
+    "sha256": "d9c0f3783c837ebb629938ac74ab9151caaf93de9fc898ce7c1312a618d71cdb"
+  },
+  {
+    "name": "claude-code-setup",
+    "icon": "claude-code-setup/icon.png",
+    "source": "https://claude.ai/apple-touch-icon.png",
+    "matchedBy": "official-homepage-apple-touch-icon",
+    "mimeType": "image/png",
+    "sha256": "abcb28f62668114c54593f477a444744f57ec09763ef8e775cf7231e3a2270d3"
+  },
+  {
+    "name": "claude-md-management",
+    "icon": "claude-md-management/icon.png",
+    "source": "https://claude.ai/apple-touch-icon.png",
+    "matchedBy": "official-homepage-apple-touch-icon",
+    "mimeType": "image/png",
+    "sha256": "abcb28f62668114c54593f477a444744f57ec09763ef8e775cf7231e3a2270d3"
+  },
+  {
+    "name": "clickhouse",
+    "icon": "clickhouse/icon.png",
+    "source": "https://github.com/ClickHouse.png?size=512",
+    "matchedBy": "official-github-organization-avatar",
+    "mimeType": "image/png",
+    "sha256": "70b4d2a079cb79576409e0deef2fdf7f3b1ecff66ed6c76b20d3555ce13eb853"
+  },
+  {
+    "name": "clickhouse-best-practices",
+    "icon": "clickhouse-best-practices/icon.png",
+    "source": "https://clickhouse.com/apple-icon.png?apple-icon.2ibhss7sexcsy.png",
+    "matchedBy": "official-homepage-apple-touch-icon",
+    "homepage": "https://clickhouse.com",
+    "mimeType": "image/png",
+    "sha256": "d42dd2dfdbd972529ffcd307512308f33d90ab1f1084ac37df16b44367322bde"
+  },
+  {
+    "name": "cloud-sql-mysql",
+    "icon": "cloud-sql-mysql/icon.png",
+    "source": "https://services.google.com/fh/files/misc/core-products-icons.zip",
+    "matchedBy": "official-product-icon-library",
+    "mimeType": "image/png",
+    "sha256": "5696e7578af109a6347075547ef95c7ffe7ee9a6bede097cc59caef7b93070cc"
+  },
+  {
+    "name": "cloud-sql-postgresql",
+    "icon": "cloud-sql-postgresql/icon.png",
+    "source": "https://services.google.com/fh/files/misc/core-products-icons.zip",
+    "matchedBy": "official-product-icon-library",
+    "mimeType": "image/png",
+    "sha256": "5696e7578af109a6347075547ef95c7ffe7ee9a6bede097cc59caef7b93070cc"
+  },
+  {
+    "name": "cloud-sql-sqlserver",
+    "icon": "cloud-sql-sqlserver/icon.png",
+    "source": "https://services.google.com/fh/files/misc/core-products-icons.zip",
+    "matchedBy": "official-product-icon-library",
+    "mimeType": "image/png",
+    "sha256": "5696e7578af109a6347075547ef95c7ffe7ee9a6bede097cc59caef7b93070cc"
+  },
+  {
+    "name": "cloudflare",
+    "icon": "cloudflare/icon.png",
+    "source": "/plugins/cloudflare/assets/cloudflare.png",
+    "mimeType": "image/png",
+    "sha256": "a247738e52687dab528b551485ca0f4f91675bb7ba378b3492f3fac8613e6ec5"
+  },
+  {
+    "name": "cloudinary",
+    "icon": "cloudinary/icon.png",
+    "source": "/plugins/cloudinary/assets/app-icon.png",
+    "mimeType": "image/png",
+    "sha256": "300678f156b7d6ddeefa560428e526c720a5698957f3c9c17d8d650a50b7eb0b"
+  },
+  {
+    "name": "cockroachdb",
+    "icon": "cockroachdb/icon.png",
+    "source": "https://github.com/cockroachdb/claude-plugin/blob/fb845eda90ab894f26df7b084f3652e5cef49dd4/assets/logo.svg",
+    "matchedBy": "official-repository-app-icon",
+    "mimeType": "image/png",
+    "sha256": "0aaaccd5b00781b5e8931e1ab2ce77435674db28dfd98c80227f5ae8103443bf"
+  },
+  {
+    "name": "code-modernization",
+    "icon": "code-modernization/icon.png",
+    "source": "/Users/utom/Downloads/code.png",
+    "mimeType": "image/png",
+    "sha256": "baba99aaeaddd92d12cf09d4e885bffc4125c65c0b8ec3aac6df2cfb591c4d64"
+  },
+  {
+    "name": "code-review",
+    "icon": "code-review/icon.png",
+    "source": "/Users/utom/Downloads/code.png",
+    "mimeType": "image/png",
+    "sha256": "baba99aaeaddd92d12cf09d4e885bffc4125c65c0b8ec3aac6df2cfb591c4d64"
+  },
+  {
+    "name": "code-simplifier",
+    "icon": "code-simplifier/icon.png",
+    "source": "/Users/utom/Downloads/code.png",
+    "mimeType": "image/png",
+    "sha256": "baba99aaeaddd92d12cf09d4e885bffc4125c65c0b8ec3aac6df2cfb591c4d64"
+  },
+  {
+    "name": "coderabbit",
+    "icon": "coderabbit/icon.png",
+    "source": "/plugins/coderabbit/assets/logo.png",
+    "mimeType": "image/png",
+    "sha256": "1fb4f75c50ead31b138353aa91d01c3989acf37ae79348f6fdb3c1285dca98cc"
+  },
+  {
+    "name": "codspeed",
+    "icon": "codspeed/icon.png",
+    "source": "https://codspeed.io/favicon/apple-touch-icon.png",
+    "matchedBy": "official-homepage-apple-touch-icon",
+    "homepage": "https://codspeed.io",
+    "mimeType": "image/png",
+    "sha256": "fbd90eb17798191d6cd443439fe98d35cf21f712700f7cb759d60603717131d1"
+  },
+  {
+    "name": "commit-commands",
+    "icon": "commit-commands/icon.png",
+    "source": "/Users/utom/Downloads/git.png",
+    "mimeType": "image/png",
+    "sha256": "06a952c4d511b4d43cfbc9faf4fdabb53561d5c624346d224e2c066b9d09617e"
+  },
+  {
+    "name": "confidence",
+    "icon": "confidence/icon.png",
+    "source": "https://confidence.spotify.com/icon.png?icon.2xrprevu3hzd1.png",
+    "matchedBy": "official-homepage-icon",
+    "homepage": "https://confidence.spotify.com",
+    "mimeType": "image/png",
+    "sha256": "7ef7dfcca86d3f3692dcc0454b0564c88235cec53d20d5dbfbb8ce9749f2e8e4"
+  },
+  {
+    "name": "context7",
+    "icon": "context7/icon.png",
+    "source": "https://github.com/upstash/context7/blob/master/public/context7-icon.svg",
+    "matchedBy": "official-repository-app-icon",
+    "mimeType": "image/png",
+    "sha256": "4cb2a8c95a51df844a8dc135bd4b8a3d90b51254f668655d71d562e4a7e75dc7"
+  },
+  {
+    "name": "convex",
+    "icon": "convex/icon.png",
+    "source": "/plugins/convex/assets/logo.png",
+    "mimeType": "image/png",
+    "sha256": "00a52c9040f16e47c8f4a45f73f6cdbfb7d32e37ac4e1ea8fc7f3693346a55dd"
+  },
+  {
+    "name": "crowdstrike-falcon-foundry",
+    "icon": "crowdstrike-falcon-foundry/icon.png",
+    "source": "https://github.com/CrowdStrike.png?size=512",
+    "matchedBy": "official-github-organization-avatar",
+    "mimeType": "image/png",
+    "sha256": "2132b627ba78ed1db9e7486d64112c3facc39fcbef83a6db226bcd6d26b68097"
+  },
+  {
+    "name": "csharp-lsp",
+    "icon": "csharp-lsp/icon.png",
+    "source": "https://github.com/dotnet.png?size=512",
+    "matchedBy": "official-github-organization-avatar",
+    "mimeType": "image/png",
+    "sha256": "dfc9cafd8a1f0b133b25b522fed926e84236f73acd3dce38d2a6e5aa1270cf3f"
+  },
+  {
+    "name": "cwc-makers",
+    "icon": "cwc-makers/icon.png",
+    "source": "https://cdn.prod.website-files.com/6889473510b50328dbb70ae6/68c33859cc6cd903686c66a2_apple-touch-icon.png",
+    "matchedBy": "official-homepage-apple-touch-icon",
+    "homepage": "https://claude.com/cwc-makers",
+    "mimeType": "image/png",
+    "sha256": "48f7f44f8d7144dac26b61411f436884e25bc7735ad2536bc874f6d5bf0e1cb0"
+  },
+  {
+    "name": "dash0",
+    "icon": "dash0/icon.png",
+    "source": "https://www.dash0.com/apple-touch-icon.png",
+    "matchedBy": "official-homepage-apple-touch-icon",
+    "homepage": "https://dash0.com/",
+    "mimeType": "image/png",
+    "sha256": "de1c2148622d960ee37c01ed2e033f0c03c7d7630bfd2abe504072537886a5f4"
+  },
+  {
+    "name": "data",
+    "icon": "data/icon.png",
+    "source": "https://github.com/astronomer.png?size=512",
+    "matchedBy": "official-github-organization-avatar",
+    "mimeType": "image/png",
+    "sha256": "ad7a2d585b444c8f1f161b66969c5e9f9901b72e1ffa21b89635930fc8aab649"
+  },
+  {
+    "name": "data-agent-kit-starter-pack",
+    "icon": "data-agent-kit-starter-pack/icon.png",
+    "source": "https://github.com/gemini-cli-extensions.png?size=512",
+    "matchedBy": "official-github-organization-avatar",
+    "mimeType": "image/png",
+    "sha256": "eef4dd92ecb62211ac4b05e681f92990996cdb91a888afae579fe4ba17e7db38"
+  },
+  {
+    "name": "data-engineering",
+    "icon": "data-engineering/icon.png",
+    "source": "https://github.com/astronomer.png?size=512",
+    "matchedBy": "official-github-organization-avatar",
+    "mimeType": "image/png",
+    "sha256": "ad7a2d585b444c8f1f161b66969c5e9f9901b72e1ffa21b89635930fc8aab649"
+  },
+  {
+    "name": "databases-on-aws",
+    "icon": "databases-on-aws/icon.png",
+    "source": "https://a0.awsstatic.com/libra-css/images/site/touch-icon-ipad-144-smile.png",
+    "matchedBy": "official-homepage-apple-touch-icon",
+    "mimeType": "image/png",
+    "sha256": "461bba96760190de10cdafb2fbb05fdb18699ddc44ea57c1f363a304b16c92b5"
+  },
+  {
+    "name": "databricks",
+    "icon": "databricks/icon.png",
+    "source": "https://developers.databricks.com/favicon/favicon-256x256.png",
+    "matchedBy": "official-homepage-apple-touch-icon",
+    "homepage": "https://developers.databricks.com/",
+    "mimeType": "image/png",
+    "sha256": "21854eeb998852f371432fb804769c7dc79c219d5cafacf6ea61b03b6d936cc6"
+  },
+  {
+    "name": "datadog",
+    "icon": "datadog/icon.png",
+    "source": "/plugins/datadog/assets/app-icon.png",
+    "mimeType": "image/png",
+    "sha256": "848e902b7ef9930f15ff6178eeb5a7487cfe4447888334b549e3ab121bf5f484"
+  },
+  {
+    "name": "datahub-skills",
+    "icon": "datahub-skills/icon.png",
+    "source": "https://datahub.com/wp-content/uploads/2026/01/dataHub_symbol_color.svg",
+    "matchedBy": "official-homepage-apple-touch-icon",
+    "homepage": "https://datahub.com",
+    "mimeType": "image/png",
+    "sha256": "ba0c3c6a696bc85b598ff96151915003048c6524a19273af0fc75f5e74966ba0"
+  },
+  {
+    "name": "dataproc",
+    "icon": "dataproc/icon.png",
+    "source": "https://github.com/gemini-cli-extensions.png?size=512",
+    "matchedBy": "official-github-organization-avatar",
+    "mimeType": "image/png",
+    "sha256": "eef4dd92ecb62211ac4b05e681f92990996cdb91a888afae579fe4ba17e7db38"
+  },
+  {
+    "name": "datarobot-agent-skills",
+    "icon": "datarobot-agent-skills/icon.png",
+    "source": "https://www.datarobot.com/wp-content/themes/datarobot6/assets/images/favicons/apple-icon-180x180.png",
+    "matchedBy": "official-homepage-apple-touch-icon",
+    "homepage": "https://datarobot.com",
+    "mimeType": "image/png",
+    "sha256": "758573dfdce0f24ff76e78db4b62681013d77f0be190eecd3cac4bc9caa120d6"
+  },
+  {
+    "name": "dataverse",
+    "icon": "dataverse/icon.png",
+    "source": "https://github.com/microsoft.png?size=512",
+    "matchedBy": "official-github-organization-avatar",
+    "mimeType": "image/png",
+    "sha256": "45cbf30a0ff55e2f0c0672f0c86621cc9a7f0642c69523c6f144d3f16cb6b9c4"
+  },
+  {
+    "name": "deepeval",
+    "icon": "deepeval/icon.png",
+    "source": "https://github.com/confident-ai.png?size=512",
+    "matchedBy": "official-github-organization-avatar",
+    "mimeType": "image/png",
+    "sha256": "d60e4c71c5cf533c28067f8ee17755f9a321d3d776e144c0bbafac7defbd3611"
+  },
+  {
+    "name": "deploy-on-aws",
+    "icon": "deploy-on-aws/icon.png",
+    "source": "https://a0.awsstatic.com/libra-css/images/site/touch-icon-ipad-144-smile.png",
+    "matchedBy": "official-homepage-apple-touch-icon",
+    "mimeType": "image/png",
+    "sha256": "461bba96760190de10cdafb2fbb05fdb18699ddc44ea57c1f363a304b16c92b5"
+  },
+  {
+    "name": "desktop-commander",
+    "icon": "desktop-commander/icon.png",
+    "source": "https://desktopcommander.app/apple-touch-icon.png",
+    "matchedBy": "official-homepage-apple-touch-icon",
+    "homepage": "https://desktopcommander.app",
+    "mimeType": "image/png",
+    "sha256": "5c83bd5e6dea6e97e81404b4e8d69a1fdd5e12724af8b83eda9aaf08fd031a58"
+  },
+  {
+    "name": "discord",
+    "icon": "discord/icon.png",
+    "source": "https://github.com/discord.png?size=512",
+    "matchedBy": "official-github-organization-avatar",
+    "mimeType": "image/png",
+    "sha256": "a4ba1b905dbe29cfc9885a0315623ba583767077a1342c831ad50fda93eaf0e0"
+  },
+  {
+    "name": "document-skills",
+    "icon": "document-skills/icon.png",
+    "source": "/Users/utom/Downloads/doc@2x.png",
+    "mimeType": "image/png",
+    "sha256": "f75e45a5aab06df80aca5cf33a3426f2fbd609c4739f75e65960072b310582df"
+  },
+  {
+    "name": "dominodatalab",
+    "icon": "dominodatalab/icon.png",
+    "source": "https://domino.ai/favicon.ico?favicon.0-n~8ld_v~a98.ico",
+    "matchedBy": "official-homepage-icon",
+    "homepage": "https://www.domino.ai",
+    "mimeType": "image/png",
+    "sha256": "4db30233e770929fc74ab501d8f70c880b16fd08cbd723a328180c87abcd64ba"
+  },
+  {
+    "name": "dropbox",
+    "icon": "dropbox/icon.png",
+    "source": "https://github.com/dropbox/dropbox-ai-plugins/blob/main/codex/assets/logo-light.png",
+    "matchedBy": "official-upstream",
+    "mimeType": "image/png",
+    "sha256": "949c38bc4913b395db0b0312aa47b4b18045e2f1d6ce73e0b17b8217b03a290b"
+  },
+  {
+    "name": "duckdb-skills",
+    "icon": "duckdb-skills/icon.png",
+    "source": "https://duckdb.org/images/favicon/apple-touch-icon.png",
+    "matchedBy": "official-homepage-apple-touch-icon",
+    "homepage": "https://duckdb.org",
+    "mimeType": "image/png",
+    "sha256": "b7136de05733b001c624966be1098a57605eb15e2a7eb3afb480dfca64264915"
+  },
+  {
+    "name": "duende-skills",
+    "icon": "duende-skills/icon.png",
+    "source": "https://duendesoftware.com/favicon/apple-touch-icon.png",
+    "matchedBy": "official-homepage-apple-touch-icon",
+    "homepage": "https://duendesoftware.com",
+    "mimeType": "image/png",
+    "sha256": "c632379c45e0223d7e820d35c0412056e319dcd6b04263df91794b223ffd720a"
+  },
+  {
+    "name": "exa",
+    "icon": "exa/icon.png",
+    "source": "https://github.com/exa-labs.png?size=512",
+    "matchedBy": "official-github-organization-avatar",
+    "mimeType": "image/png",
+    "sha256": "664c23544fed43e89ad720b5f638dbabc634d31a4d4424cb6876814c5bea0ee8"
+  },
+  {
+    "name": "expo",
+    "icon": "expo/icon.png",
+    "source": "/plugins/expo/assets/expo.png",
+    "mimeType": "image/png",
+    "sha256": "07dc6db41c80323b517bb3db8a86141ebbbbddf9ac266c0f68dc231c42e54848"
+  },
+  {
+    "name": "fastly-agent-toolkit",
+    "icon": "fastly-agent-toolkit/icon.png",
+    "source": "https://github.com/fastly.png?size=512",
+    "matchedBy": "official-github-organization-avatar",
+    "mimeType": "image/png",
+    "sha256": "81f1b3d4c96acf470560f31147f0b9ccfa92430da29b208cdcb1059c9066ab44"
+  },
+  {
+    "name": "feature-dev",
+    "icon": "feature-dev/icon.png",
+    "source": "/Users/utom/Downloads/code-review.png",
+    "mimeType": "image/png",
+    "sha256": "100eda1c4171478e11ce4393631cda03a34a54980197a4dc81a34ba5af0e68ed"
+  },
+  {
+    "name": "fiftyone",
+    "icon": "fiftyone/icon.png",
+    "source": "https://docs.voxel51.com/_static/favicon/favicon-512.png",
+    "matchedBy": "official-homepage-apple-touch-icon",
+    "homepage": "https://docs.voxel51.com/",
+    "mimeType": "image/png",
+    "sha256": "e0a051413e8d9086352b4b5a93ef47c3defc311e50358042ab564ca45193cae2"
+  },
+  {
+    "name": "figma",
+    "icon": "figma/icon.png",
+    "source": "/plugins/figma/assets/logo-padded.png",
+    "mimeType": "image/png",
+    "sha256": "367f418dd011e05884a0e44294c0cae609a6c9558c4e2fe04750b705c1ca4939"
+  },
+  {
+    "name": "firebase",
+    "icon": "firebase/icon.png",
+    "source": "https://github.com/firebase.png?size=512",
+    "matchedBy": "official-github-organization-avatar",
+    "mimeType": "image/png",
+    "sha256": "08f8a66c0a0d149599b08e4e9310108bb5bce27338f6374c6fef5957e51cd24d"
+  },
+  {
+    "name": "firecrawl",
+    "icon": "firecrawl/icon.png",
+    "source": "https://github.com/firecrawl.png?size=512",
+    "matchedBy": "official-github-organization-avatar",
+    "mimeType": "image/png",
+    "sha256": "1564fd561c988b94248ba7a51503c418e57be05a5bb3988900f9263967843e0d"
+  },
+  {
+    "name": "firestore-native",
+    "icon": "firestore-native/icon.png",
+    "source": "https://github.com/gemini-cli-extensions.png?size=512",
+    "matchedBy": "official-github-organization-avatar",
+    "mimeType": "image/png",
+    "sha256": "eef4dd92ecb62211ac4b05e681f92990996cdb91a888afae579fe4ba17e7db38"
+  },
+  {
+    "name": "forge-skills",
+    "icon": "forge-skills/icon.png",
+    "source": "/plugins/atlassian-rovo/assets/logo.png",
+    "matchedBy": "brand:atlassian-rovo",
+    "mimeType": "image/png",
+    "sha256": "a5507644eb467760548bcb57b9c45ea7a5a2e22e905ad944c7a11e82443b9743"
+  },
+  {
+    "name": "fullstory",
+    "icon": "fullstory/icon.png",
+    "source": "https://www.fullstory.com/icons/icon-512x512.png?v=7cac1bc6d731746740d72903d25cd5bf",
+    "matchedBy": "official-homepage-apple-touch-icon",
+    "homepage": "https://www.fullstory.com",
+    "mimeType": "image/png",
+    "sha256": "aa6b18f83256e08d1c2c28e555ebedcacefd9c5b00fcba923fba7bdfa66fdb2b"
+  },
+  {
+    "name": "github",
+    "icon": "github/icon.png",
+    "source": "/plugins/github/assets/logo.png",
+    "mimeType": "image/png",
+    "sha256": "916da4b4e72d9e80df2b2162ae47d01db372caadaaaad2e3a26339284965a548"
+  },
+  {
+    "name": "gitlab",
+    "icon": "gitlab/icon.png",
+    "source": "https://github.com/gitlab-org.png?size=512",
+    "matchedBy": "official-github-organization-avatar",
+    "mimeType": "image/png",
+    "sha256": "ea2f9a9bd66bd8a520ccc5df06cc788b6fd6f669ee9b7cf0892854d96315614b"
+  },
+  {
+    "name": "gopls-lsp",
+    "icon": "gopls-lsp/icon.png",
+    "source": "https://github.com/golang.png?size=512",
+    "matchedBy": "official-github-organization-avatar",
+    "mimeType": "image/png",
+    "sha256": "804a72cf5b21671c7b30bb37c3f57ddcb09dd29ea33d42ca48482d041528d716"
+  },
+  {
+    "name": "grafana-assistant",
+    "icon": "grafana-assistant/icon.png",
+    "source": "https://a-us.storyblok.com/f/1022730/512x512/f384919881/grafana-schema-icon.png/m/",
+    "matchedBy": "official-structured-app-icon",
+    "homepage": "https://grafana.com",
+    "mimeType": "image/png",
+    "sha256": "1477d618fabc0bf9487d6fddb1d99afe38963099aa6e73ad842b1b826791797a"
+  },
+  {
+    "name": "grafana-cloud-mcp",
+    "icon": "grafana-cloud-mcp/icon.png",
+    "source": "https://a-us.storyblok.com/f/1022730/512x512/f384919881/grafana-schema-icon.png/m/",
+    "matchedBy": "official-structured-app-icon",
+    "homepage": "https://grafana.com",
+    "mimeType": "image/png",
+    "sha256": "1477d618fabc0bf9487d6fddb1d99afe38963099aa6e73ad842b1b826791797a"
+  },
+  {
+    "name": "grafana-mcp",
+    "icon": "grafana-mcp/icon.png",
+    "source": "https://a-us.storyblok.com/f/1022730/512x512/f384919881/grafana-schema-icon.png/m/",
+    "matchedBy": "official-structured-app-icon",
+    "homepage": "https://grafana.com",
+    "mimeType": "image/png",
+    "sha256": "1477d618fabc0bf9487d6fddb1d99afe38963099aa6e73ad842b1b826791797a"
+  },
+  {
+    "name": "greptile",
+    "icon": "greptile/icon.png",
+    "source": "https://github.com/greptileai.png?size=512",
+    "matchedBy": "official-github-organization-avatar",
+    "mimeType": "image/png",
+    "sha256": "3425209f63d943c80f6d5829d33685317ce8bb5aabc389a62a56d1509ac15050"
+  },
+  {
+    "name": "honeycomb",
+    "icon": "honeycomb/icon.png",
+    "source": "https://www.honeycomb.io/favicon.ico?favicon.07o~09ebmt8eg.ico",
+    "matchedBy": "official-homepage-icon",
+    "homepage": "https://www.honeycomb.io",
+    "mimeType": "image/png",
+    "sha256": "4964e6de849ef3d6332a5d41f814373601c46d828760bc76bfeaf623bfc67372"
+  },
+  {
+    "name": "hostinger",
+    "icon": "hostinger/icon.png",
+    "source": "/plugins/hostinger/assets/logo.png",
+    "mimeType": "image/png",
+    "sha256": "ba877ab1d25a44f58e7d7370d4728a95cc92a459016c4fc9755eb3fd5ba88213"
+  },
+  {
+    "name": "huggingface-skills",
+    "icon": "huggingface-skills/icon.png",
+    "source": "/plugins/hugging-face/assets/logo.png",
+    "matchedBy": "alias:hugging-face",
+    "mimeType": "image/png",
+    "sha256": "c34e28c9fd123545adfe4595dc0a08099e35c0950cfd31bc79956c2eee5a132a"
+  },
+  {
+    "name": "hunter",
+    "icon": "hunter/icon.png",
+    "source": "https://hunter.io/assets/touch-icon-iphone-retina-toekunmu.png",
+    "matchedBy": "official-homepage-apple-touch-icon",
+    "homepage": "https://hunter.io",
+    "mimeType": "image/png",
+    "sha256": "ab6309b2d88ae9844cc126c769d607a268166229554f168f9e8a1a1f079ed821"
+  },
+  {
+    "name": "hyperframes",
+    "icon": "hyperframes/icon.png",
+    "source": "/plugins/hyperframes/assets/logo.png",
+    "mimeType": "image/png",
+    "sha256": "26e317d2963e12b09286329e3d6598700dba3c63f710b2fd5b269371d74b27c3"
+  },
+  {
+    "name": "idmp-plugin",
+    "icon": "idmp-plugin/icon.png",
+    "source": "https://github.com/taosdata.png?size=512",
+    "matchedBy": "official-github-organization-avatar",
+    "mimeType": "image/png",
+    "sha256": "bfa2b9093c883b6a4c3b7a14e548b89488aef234a6eb66d82fec4cb3198400de"
+  },
+  {
+    "name": "imessage",
+    "icon": "imessage/icon.png",
+    "source": "https://github.com/apple.png?size=512",
+    "matchedBy": "official-github-organization-avatar",
+    "mimeType": "image/png",
+    "sha256": "4b8a2a78071492fe3d2f037e39c2326c5c8f96a586fb2af31e22c6d3ff833d05"
+  },
+  {
+    "name": "intercom",
+    "icon": "intercom/icon.png",
+    "source": "/plugins/intercom/assets/logo.png",
+    "mimeType": "image/png",
+    "sha256": "2c01836bfac25fd52b8c901b9b50a7076e40d7645d6392cec2e4a4f6b7a7e460"
+  },
+  {
+    "name": "ios-simulator",
+    "icon": "ios-simulator/icon.png",
+    "source": "/Applications/Xcode.app/Contents/Developer/Applications/Simulator.app/Contents/Resources/AppIcon.icns",
+    "matchedBy": "official-installed-app-icon",
+    "homepage": "https://developer.apple.com/documentation/xcode/running-your-app-on-simulated-or-physical-devices",
+    "mimeType": "image/png",
+    "sha256": "455d34704f7a0a6759b68270419498f09bd98af2a1ec8e4cddfb93c97cc55b04"
+  },
+  {
+    "name": "jdtls-lsp",
+    "icon": "jdtls-lsp/icon.png",
+    "source": "https://github.com/eclipse-jdtls.png?size=512",
+    "matchedBy": "official-github-organization-avatar",
+    "mimeType": "image/png",
+    "sha256": "f3bf2586e751e0eda745db93c4c0f2a241df6d82a69febc1b4f70b3197abe179"
+  },
+  {
+    "name": "jfrog",
+    "icon": "jfrog/icon.png",
+    "source": "https://speedmedia2.jfrog.com/08612fe1-9391-4cf3-ac1a-6dd49c36b276/media.jfrog.com/wp-content/uploads/2024/09/26122057/JFrog-Logo.png",
+    "matchedBy": "official-homepage-apple-touch-icon",
+    "homepage": "https://jfrog.com",
+    "mimeType": "image/png",
+    "sha256": "2fc93cc1addd10477d0981c07c9b27790a19e5eff3004b6e95ab60c6decd5a4e"
+  },
+  {
+    "name": "knowledge-catalog",
+    "icon": "knowledge-catalog/icon.png",
+    "source": "https://github.com/gemini-cli-extensions.png?size=512",
+    "matchedBy": "official-github-organization-avatar",
+    "mimeType": "image/png",
+    "sha256": "eef4dd92ecb62211ac4b05e681f92990996cdb91a888afae579fe4ba17e7db38"
+  },
+  {
+    "name": "kotlin-lsp",
+    "icon": "kotlin-lsp/icon.png",
+    "source": "https://github.com/JetBrains.png?size=512",
+    "matchedBy": "official-github-organization-avatar",
+    "mimeType": "image/png",
+    "sha256": "fc788fb54fdef5418c52f1e46408db35b1227dacca0b3565cbce652bb43ef8a3"
+  },
+  {
+    "name": "langfuse",
+    "icon": "langfuse/icon.png",
+    "source": "https://langfuse.com/apple-touch-icon.png",
+    "matchedBy": "official-homepage-apple-touch-icon",
+    "homepage": "https://langfuse.com",
+    "mimeType": "image/png",
+    "sha256": "7522145deabf481758ecd1b164ce5a61f0c8a47dd6c16cfd72b56fdd36a72593"
+  },
+  {
+    "name": "langfuse-observability",
+    "icon": "langfuse-observability/icon.png",
+    "source": "https://langfuse.com/apple-touch-icon.png",
+    "matchedBy": "official-homepage-apple-touch-icon",
+    "homepage": "https://langfuse.com/integrations/other/claude-code",
+    "mimeType": "image/png",
+    "sha256": "7522145deabf481758ecd1b164ce5a61f0c8a47dd6c16cfd72b56fdd36a72593"
+  },
+  {
+    "name": "laravel-boost",
+    "icon": "laravel-boost/icon.png",
+    "source": "https://github.com/laravel.png?size=512",
+    "matchedBy": "official-github-organization-avatar",
+    "mimeType": "image/png",
+    "sha256": "6988c9dc368db46bfc4c3b8aebacfa87276c022fece7ae08feab37969f85c122"
+  },
+  {
+    "name": "learn-with-coursera",
+    "icon": "learn-with-coursera/icon.png",
+    "source": "https://github.com/coursera.png?size=512",
+    "matchedBy": "official-github-organization-avatar",
+    "mimeType": "image/png",
+    "sha256": "3ca16ec0c28015bb72fa98f71d813801fc46277ba1c11b755a9acdf130106e7b"
+  },
+  {
+    "name": "legalzoom",
+    "icon": "legalzoom/icon.png",
+    "source": "https://www.legalzoom.com/favicon.ico",
+    "matchedBy": "official-homepage-icon",
+    "homepage": "https://www.legalzoom.com/",
+    "mimeType": "image/png",
+    "sha256": "9de13e0d75f13a5ce08fe2b60b2cc113bb37c22f6de70e64001ec249eb598668"
+  },
+  {
+    "name": "linear",
+    "icon": "linear/icon.png",
+    "source": "/plugins/linear/assets/app-icon.png",
+    "mimeType": "image/png",
+    "sha256": "8c5c11999eac63b993db39116308d97b26084cb093c4adc362967e41d2399a0e"
+  },
+  {
+    "name": "liquid-lsp",
+    "icon": "liquid-lsp/icon.png",
+    "source": "/plugins/shopify/assets/logo-padded.svg",
+    "matchedBy": "brand:shopify",
+    "mimeType": "image/png",
+    "sha256": "37873587ad01c059a072fdbd70208bbb61eef725db1135a44957d3f5d64b20d2"
+  },
+  {
+    "name": "liquid-skills",
+    "icon": "liquid-skills/icon.png",
+    "source": "/plugins/shopify/assets/logo-padded.svg",
+    "matchedBy": "brand:shopify",
+    "mimeType": "image/png",
+    "sha256": "37873587ad01c059a072fdbd70208bbb61eef725db1135a44957d3f5d64b20d2"
+  },
+  {
+    "name": "logfire",
+    "icon": "logfire/icon.png",
+    "source": "https://github.com/pydantic.png?size=512",
+    "matchedBy": "official-github-organization-avatar",
+    "mimeType": "image/png",
+    "sha256": "f4c01ece1bc1383d64f819db10f5cc97d1842f392c71a97e17fb33396fcc21bd"
+  },
+  {
+    "name": "logrocket",
+    "icon": "logrocket/icon.png",
+    "source": "https://logrocket.com/favicon/apple-touch-icon.png",
+    "matchedBy": "official-homepage-apple-touch-icon",
+    "homepage": "https://logrocket.com",
+    "mimeType": "image/png",
+    "sha256": "6a68e03b628cbd0f62de6a12cf5a0961b50544e06a87b6b4327df9dda9716ab6"
+  },
+  {
+    "name": "looker",
+    "icon": "looker/icon.png",
+    "source": "https://services.google.com/fh/files/misc/core-products-icons.zip",
+    "matchedBy": "official-product-icon-library",
+    "mimeType": "image/png",
+    "sha256": "a70d2ea577704cda6a9ffa65403d1c79a71b15ab5fad72569f18d273a1f9c8c8"
+  },
+  {
+    "name": "lovable",
+    "icon": "lovable/icon.png",
+    "source": "/plugins/lovable/assets/logo.png",
+    "mimeType": "image/png",
+    "sha256": "60ed872fe9e9133f7555675e2ff0dd8621e70e7f1e4e7169e18ad2501f70609b"
+  },
+  {
+    "name": "lua-lsp",
+    "icon": "lua-lsp/icon.png",
+    "source": "https://github.com/LuaLS.png?size=512",
+    "matchedBy": "official-github-organization-avatar",
+    "mimeType": "image/png",
+    "sha256": "ae31a2ba42d8df5bfea323c673883da85275020324fb4e229ea1f40bb3fa2a4b"
+  },
+  {
+    "name": "lumen",
+    "icon": "lumen/icon.png",
+    "source": "https://cdn.sanity.io/images/33xluxe1/production/94d9d635f4a93f6136707a1005137ae11921ca0a-44x16.svg?rect=14,0,16,16&w=112&h=112",
+    "matchedBy": "official-structured-app-icon",
+    "homepage": "https://www.ory.sh",
+    "mimeType": "image/png",
+    "sha256": "2399e03f23ed8f814949528c4a97c441d7f9ac6dfa6ba5d68f95fcd04df6c049"
+  },
+  {
+    "name": "lusha",
+    "icon": "lusha/icon.png",
+    "source": "https://github.com/lusha-oss/lusha-mcp-plugin/blob/master/assets/logo.png",
+    "matchedBy": "official-repository-asset",
+    "mimeType": "image/png",
+    "sha256": "086487b5c40f6a99fb4f712fc80a1cc33311062a5365e3836fbfe9f51cc63b52"
+  },
+  {
+    "name": "mapbox",
+    "icon": "mapbox/icon.png",
+    "source": "https://cdn.prod.website-files.com/6050a76fa6a633d5d54ae714/6050ac04955ff26c84dcb8c8_mapbox_favicon_256x256.png",
+    "matchedBy": "official-homepage-apple-touch-icon",
+    "homepage": "https://www.mapbox.com",
+    "mimeType": "image/png",
+    "sha256": "803aab15cce30947cdee2f84f3130efba03103b33c42e61c8b7bf9cda360e4d8"
+  },
+  {
+    "name": "mcp-apps",
+    "icon": "mcp-apps/icon.png",
+    "source": "https://modelcontextprotocol.io/mintlify-assets/_mintlify/favicons/mcp/ebiVJzri-bsiCfVZ/_generated/favicon/apple-touch-icon.png",
+    "matchedBy": "official-homepage-apple-touch-icon",
+    "homepage": "https://modelcontextprotocol.io",
+    "mimeType": "image/png",
+    "sha256": "add8c249fb04f337fc503c4d8bcb807c36e5ba0dcdc3e63abfabe74d70c2003c"
+  },
+  {
+    "name": "mcp-server-dev",
+    "icon": "mcp-server-dev/icon.png",
+    "source": "https://modelcontextprotocol.io/mintlify-assets/_mintlify/favicons/mcp/ebiVJzri-bsiCfVZ/_generated/favicon/apple-touch-icon.png",
+    "matchedBy": "official-homepage-apple-touch-icon",
+    "homepage": "https://modelcontextprotocol.io",
+    "mimeType": "image/png",
+    "sha256": "bf7a5a8d52fe292c6964ea4361018ecb346a065d8a374d0e1ea6fe56170fb566"
+  },
+  {
+    "name": "mcp-tunnels",
+    "icon": "mcp-tunnels/icon.png",
+    "source": "https://modelcontextprotocol.io/mintlify-assets/_mintlify/favicons/mcp/ebiVJzri-bsiCfVZ/_generated/favicon/apple-touch-icon.png",
+    "matchedBy": "official-homepage-apple-touch-icon",
+    "homepage": "https://modelcontextprotocol.io",
+    "mimeType": "image/png",
+    "sha256": "bf7a5a8d52fe292c6964ea4361018ecb346a065d8a374d0e1ea6fe56170fb566"
+  },
+  {
+    "name": "mercadopago",
+    "icon": "mercadopago/icon.png",
+    "source": "https://github.com/mercadopago.png?size=512",
+    "matchedBy": "official-github-organization-avatar",
+    "mimeType": "image/png",
+    "sha256": "130bf3f850bab8cfee4e9f50fb95eb13f5267bb6d2854e8dfc4372c8d5e0cda1"
+  },
+  {
+    "name": "mergify",
+    "icon": "mergify/icon.png",
+    "source": "https://mergify.com/favicon.svg",
+    "matchedBy": "official-homepage-icon",
+    "homepage": "https://mergify.com",
+    "mimeType": "image/png",
+    "sha256": "109392ddbd7053b565d1906c07c9ccf4eb7c02c7d32fb180b8ecb17bda40f702"
+  },
+  {
+    "name": "microsoft-docs",
+    "icon": "microsoft-docs/icon.png",
+    "source": "https://github.com/MicrosoftDocs.png?size=512",
+    "matchedBy": "official-github-organization-avatar",
+    "mimeType": "image/png",
+    "sha256": "c29fbd690c640d135409c312e382c687001b3bd8a6fc973142b46937da6a8c30"
+  },
+  {
+    "name": "migration-to-aws",
+    "icon": "migration-to-aws/icon.png",
+    "source": "https://a0.awsstatic.com/libra-css/images/site/touch-icon-ipad-144-smile.png",
+    "matchedBy": "official-homepage-apple-touch-icon",
+    "mimeType": "image/png",
+    "sha256": "461bba96760190de10cdafb2fbb05fdb18699ddc44ea57c1f363a304b16c92b5"
+  },
+  {
+    "name": "mintlify",
+    "icon": "mintlify/icon.png",
+    "source": "https://www.mintlify.com/favicon.ico?favicon.d9fa433b.ico",
+    "matchedBy": "official-homepage-icon",
+    "homepage": "https://www.mintlify.com/",
+    "mimeType": "image/png",
+    "sha256": "4849496dea6c3b61ad901745d37e9c11a65248af4a95d8c55359aefaf4870a8e"
+  },
+  {
+    "name": "miro",
+    "icon": "miro/icon.png",
+    "source": "https://framerusercontent.com/images/6FBG66PBxjV2QFaDfIdUi5mi9A.png",
+    "matchedBy": "official-homepage-icon",
+    "homepage": "https://miro.com",
+    "mimeType": "image/png",
+    "sha256": "de668480a77327a55ef6680d89a83b3d8facab2e9ac19e974870932b164c6c29"
+  },
+  {
+    "name": "monday-crm",
+    "icon": "monday-crm/icon.png",
+    "source": "/plugins/monday-com/assets/app-icon.png",
+    "matchedBy": "alias:monday-com",
+    "mimeType": "image/png",
+    "sha256": "52b5a1cbaf7ed2bc1e27bb682f1c89d221a0bfdd59648b3b63554564ea56642b"
+  },
+  {
+    "name": "mongodb",
+    "icon": "mongodb/icon.png",
+    "source": "https://www.mongodb.com/docs/mcp-server/assets/favicon.ico",
+    "matchedBy": "official-homepage-shortcut icon",
+    "homepage": "https://www.mongodb.com/docs/mcp-server/overview/",
+    "mimeType": "image/png",
+    "sha256": "0799e2be62f258564d08a16f1cbc56f88f7edfe0bdea7e217bae72275c75f24f"
+  },
+  {
+    "name": "neon",
+    "icon": "neon/icon.png",
+    "source": "/plugins/neon-postgres/assets/logo.png",
+    "matchedBy": "alias:neon-postgres",
+    "mimeType": "image/png",
+    "sha256": "7ffd14ae400e5f25bd2a0cd2cd905098ad4afb692c9e139d8d651ec46748b693"
+  },
+  {
+    "name": "netlify-skills",
+    "icon": "netlify-skills/icon.png",
+    "source": "/plugins/netlify/assets/app-icon.png",
+    "matchedBy": "alias:netlify",
+    "mimeType": "image/png",
+    "sha256": "4aea971a7b110568de19d7ff0d894494d37e284f2c02286207d77a3a58d88d43"
+  },
+  {
+    "name": "netsuite-suitecloud",
+    "icon": "netsuite-suitecloud/icon.png",
+    "source": "https://github.com/oracle.png?size=512",
+    "matchedBy": "official-github-organization-avatar",
+    "mimeType": "image/png",
+    "sha256": "6fb6b04b5e3b510f8660ceb73544d310b96bafe8a8c87779dbb2d200db12609c"
+  },
+  {
+    "name": "newrelic",
+    "icon": "newrelic/icon.png",
+    "source": "https://newrelic.com/themes/custom/erno/assets/images/metadata/apple-touch-icon.png",
+    "matchedBy": "official-homepage-apple-touch-icon",
+    "homepage": "https://newrelic.com",
+    "mimeType": "image/png",
+    "sha256": "af8cc472c4f64d73ee225d0405f9479ca1ce2da8e455105319e05608089a9587"
+  },
+  {
+    "name": "nightvision",
+    "icon": "nightvision/icon.png",
+    "source": "https://github.com/nvsecurity.png?size=512",
+    "matchedBy": "official-github-organization-avatar",
+    "mimeType": "image/png",
+    "sha256": "9a6970d5b23b4488879743748c76c947da9fc1f67d13eeea4764b38674df2a9f"
+  },
+  {
+    "name": "nimble",
+    "icon": "nimble/icon.png",
+    "source": "https://docs.nimbleway.com/mintlify-assets/_mintlify/favicons/nimble-f5a8283f/O9QbVEd4KNgIUIh9/_generated/favicon/apple-touch-icon.png",
+    "matchedBy": "official-homepage-apple-touch-icon",
+    "homepage": "https://docs.nimbleway.com/integrations/agent-skills/plugin-installation",
+    "mimeType": "image/png",
+    "sha256": "2261bad5313e471879b2843057d3cb60b76362d5d8174887d7af29783e62dcb0"
+  },
+  {
+    "name": "notion",
+    "icon": "notion/icon.png",
+    "source": "/plugins/notion/assets/notion.png",
+    "mimeType": "image/png",
+    "sha256": "d871f2bd184cd62e0579792a4260f9df1577183317a6eea1f45326b2255446ad"
+  },
+  {
+    "name": "nvidia-skills",
+    "icon": "nvidia-skills/icon.png",
+    "source": "/plugins/nvidia/assets/nvidia.png",
+    "matchedBy": "alias:nvidia",
+    "mimeType": "image/png",
+    "sha256": "29a6ede33f370301db496f40170c0afa585f6a4d5a8c68c372fd83e2d441606f"
+  },
+  {
+    "name": "oracle-ai-data-platform-workbench-databricks-migrator",
+    "icon": "oracle-ai-data-platform-workbench-databricks-migrator/icon.png",
+    "source": "https://docs.oracle.com/sp_common/site-template/ohc-common/img/favicon.ico",
+    "matchedBy": "official-homepage-shortcut icon",
+    "homepage": "https://docs.oracle.com/en/cloud/paas/ai-data-platform/index.html",
+    "mimeType": "image/png",
+    "sha256": "fa33ba895317fc0c1b7c0429ae23e2b9568e0f0af45b58fc4dab36b05fc1456f"
+  },
+  {
+    "name": "oracle-ai-data-platform-workbench-engineer-agent",
+    "icon": "oracle-ai-data-platform-workbench-engineer-agent/icon.png",
+    "source": "https://docs.oracle.com/sp_common/site-template/ohc-common/img/favicon.ico",
+    "matchedBy": "official-homepage-shortcut icon",
+    "homepage": "https://docs.oracle.com/en/cloud/paas/ai-data-platform/index.html",
+    "mimeType": "image/png",
+    "sha256": "fa33ba895317fc0c1b7c0429ae23e2b9568e0f0af45b58fc4dab36b05fc1456f"
+  },
+  {
+    "name": "oracle-ai-data-platform-workbench-spark-connectors",
+    "icon": "oracle-ai-data-platform-workbench-spark-connectors/icon.png",
+    "source": "https://docs.oracle.com/sp_common/site-template/ohc-common/img/favicon.ico",
+    "matchedBy": "official-homepage-shortcut icon",
+    "homepage": "https://docs.oracle.com/en/cloud/paas/ai-data-platform/index.html",
+    "mimeType": "image/png",
+    "sha256": "fa33ba895317fc0c1b7c0429ae23e2b9568e0f0af45b58fc4dab36b05fc1456f"
+  },
+  {
+    "name": "oracledb",
+    "icon": "oracledb/icon.png",
+    "source": "https://github.com/gemini-cli-extensions.png?size=512",
+    "matchedBy": "official-github-organization-avatar",
+    "mimeType": "image/png",
+    "sha256": "eef4dd92ecb62211ac4b05e681f92990996cdb91a888afae579fe4ba17e7db38"
+  },
+  {
+    "name": "outputai",
+    "icon": "outputai/icon.png",
+    "source": "https://output.ai/icon.png",
+    "matchedBy": "official-homepage-apple-touch-icon",
+    "homepage": "https://output.ai",
+    "mimeType": "image/png",
+    "sha256": "349a0c4830421fb7795d6b2dd620a24458eb7366a82e4817d973e838a3b1c23c"
+  },
+  {
+    "name": "pagerduty",
+    "icon": "pagerduty/icon.png",
+    "source": "https://github.com/PagerDuty.png?size=512",
+    "matchedBy": "official-github-organization-avatar",
+    "mimeType": "image/png",
+    "sha256": "ff65dda71e15dbb920e4999b68e36f4bbf7e7c99767ec44270cb8b4fa92c7d23"
+  },
+  {
+    "name": "php-lsp",
+    "icon": "php-lsp/icon.png",
+    "source": "https://github.com/phpactor.png?size=512",
+    "matchedBy": "official-github-organization-avatar",
+    "mimeType": "image/png",
+    "sha256": "49ed0803fa1c770a00575dd01c411e930c67fd258378c69952a580a26548cbcb"
+  },
+  {
+    "name": "pigment",
+    "icon": "pigment/icon.png",
+    "source": "https://cdn.prod.website-files.com/6605b12132f6a8b5d23896bd/66d9f038727397200b744d7c_Pigment%20Webclip%20Webflow.png",
+    "matchedBy": "official-homepage-apple-touch-icon",
+    "homepage": "https://www.pigment.com",
+    "mimeType": "image/png",
+    "sha256": "6b1a9144c3aaf31225bbedae8e10406632d5ce70c42f627a86aeec93380c281f"
+  },
+  {
+    "name": "pinecone",
+    "icon": "pinecone/icon.png",
+    "source": "https://github.com/pinecone-io.png?size=512",
+    "matchedBy": "official-github-organization-avatar",
+    "mimeType": "image/png",
+    "sha256": "2df0317beed00b5d842b7c12227369dfe38de779c828ebb8933ef582d9f1fdcf"
+  },
+  {
+    "name": "pixeltable",
+    "icon": "pixeltable/icon.png",
+    "source": "https://docs.pixeltable.com/mintlify-assets/_mintlify/favicons/pixeltable/zFspt0AMs-B9M_V8/_generated/favicon/apple-touch-icon.png",
+    "matchedBy": "official-homepage-apple-touch-icon",
+    "homepage": "https://docs.pixeltable.com",
+    "mimeType": "image/png",
+    "sha256": "5ce0c254f76d2e140c4d7218a33017241c9adb18167c82655e4f34636bc57857"
+  },
+  {
+    "name": "planetscale",
+    "icon": "planetscale/icon.png",
+    "source": "https://planetscale.com/apple-touch-icon.png",
+    "matchedBy": "official-homepage-apple-touch-icon",
+    "homepage": "https://planetscale.com/",
+    "mimeType": "image/png",
+    "sha256": "30f37c5eda51c673377c41797eaf3ad925489b77ad2a51835c3a2637cbcd72b0"
+  },
+  {
+    "name": "playwright",
+    "icon": "playwright/icon.png",
+    "source": "https://github.com/microsoft.png?size=512",
+    "matchedBy": "official-github-organization-avatar",
+    "mimeType": "image/png",
+    "sha256": "45cbf30a0ff55e2f0c0672f0c86621cc9a7f0642c69523c6f144d3f16cb6b9c4"
+  },
+  {
+    "name": "posthog",
+    "icon": "posthog/icon.png",
+    "source": "/plugins/posthog/assets/logo.png",
+    "mimeType": "image/png",
+    "sha256": "f767649a1d4b06864c7ae5ea542c91e471cd24f7f0e160b8829cea8a4c54a7fd"
+  },
+  {
+    "name": "postiz",
+    "icon": "postiz/icon.png",
+    "source": "https://postiz.com/favicon.ico",
+    "matchedBy": "official-homepage-fallback",
+    "homepage": "https://postiz.com/agent",
+    "mimeType": "image/png",
+    "sha256": "5c8829fecaa68efff5e44c6c11807e157c266edb42cc87206d6cff21bde12d00"
+  },
+  {
+    "name": "postman",
+    "icon": "postman/icon.png",
+    "source": "https://learning.postman.com/api/fern-docs/favicon.ico",
+    "matchedBy": "official-homepage-icon",
+    "homepage": "https://learning.postman.com/docs/developer/postman-mcp-server/",
+    "mimeType": "image/png",
+    "sha256": "c25a9000041ef6a851852cd90f195c42bfea6ef0e9969f694e5fdead88a4636a"
+  },
+  {
+    "name": "pr-review-toolkit",
+    "icon": "pr-review-toolkit/icon.png",
+    "source": "/Users/utom/Downloads/git.png",
+    "mimeType": "image/png",
+    "sha256": "06a952c4d511b4d43cfbc9faf4fdabb53561d5c624346d224e2c066b9d09617e"
+  },
+  {
+    "name": "preset-cli-skills",
+    "icon": "preset-cli-skills/icon.png",
+    "source": "https://preset.io/icons/icon-512x512.png?v=7d0e444da5e9a331f3edee9a380cec0e",
+    "matchedBy": "official-homepage-apple-touch-icon",
+    "homepage": "https://www.preset.io",
+    "mimeType": "image/png",
+    "sha256": "9705d376418bfbb6328c219680bfcd32f2087e0734b0fccb6d415666f1e49bc8"
+  },
+  {
+    "name": "prisma",
+    "icon": "prisma/icon.png",
+    "source": "https://www.prisma.io/favicon.ico?favicon.f8f1f26e.ico",
+    "matchedBy": "official-homepage-icon",
+    "homepage": "https://prisma.io",
+    "mimeType": "image/png",
+    "sha256": "000f610e2b99de3e23e76a0ba169fae9aece953d9112a08046a62ffeeb36137b"
+  },
+  {
+    "name": "pydantic-ai",
+    "icon": "pydantic-ai/icon.png",
+    "source": "https://github.com/pydantic.png?size=512",
+    "matchedBy": "official-github-organization-avatar",
+    "mimeType": "image/png",
+    "sha256": "f4c01ece1bc1383d64f819db10f5cc97d1842f392c71a97e17fb33396fcc21bd"
+  },
+  {
+    "name": "pyright-lsp",
+    "icon": "pyright-lsp/icon.png",
+    "source": "https://github.com/microsoft.png?size=512",
+    "matchedBy": "official-github-organization-avatar",
+    "mimeType": "image/png",
+    "sha256": "45cbf30a0ff55e2f0c0672f0c86621cc9a7f0642c69523c6f144d3f16cb6b9c4"
+  },
+  {
+    "name": "qdrant-skills",
+    "icon": "qdrant-skills/icon.png",
+    "source": "https://qdrant.tech/favicon.ico",
+    "matchedBy": "official-homepage-favicon",
+    "mimeType": "image/png",
+    "sha256": "4191e38fe0e0de93dfb04b6c3b5e4ec63d47320f422a8853fa72ef6fd98a363a"
+  },
+  {
+    "name": "qodo-skills",
+    "icon": "qodo-skills/icon.png",
+    "source": "https://github.com/qodo-ai.png?size=512",
+    "matchedBy": "official-github-organization-avatar",
+    "mimeType": "image/png",
+    "sha256": "547a3c7a411934eacc0ad25232e305185902d0955aad3939dd318702031c88cd"
+  },
+  {
+    "name": "qt-development-skills",
+    "icon": "qt-development-skills/icon.png",
+    "source": "https://www.qt.io/hubfs/QtGroup_Favicon_32.ico",
+    "matchedBy": "official-homepage-shortcut icon",
+    "homepage": "https://www.qt.io/",
+    "mimeType": "image/png",
+    "sha256": "a94ec80bfa10fb1d132b43c30664e608ba99221d56b27988ace3691facc3e966"
+  },
+  {
+    "name": "quarkus-agent",
+    "icon": "quarkus-agent/icon.png",
+    "source": "https://quarkus.io/favicon.ico",
+    "matchedBy": "official-homepage-shortcut icon",
+    "homepage": "https://quarkus.io",
+    "mimeType": "image/png",
+    "sha256": "f446f2acceaad6675da368201c4c935296e556a2a05cdbf666927e96629172e0"
+  },
+  {
+    "name": "railway",
+    "icon": "railway/icon.png",
+    "source": "https://docs.railway.com/android-chrome-512x512.png",
+    "matchedBy": "official-web-app-manifest",
+    "homepage": "https://docs.railway.com/ai/claude-code-plugin",
+    "mimeType": "image/png",
+    "sha256": "9849675090fcfee733fbcd60bae2f6c77b100a6cd267bbb5204f03e152c30347"
+  },
+  {
+    "name": "rc",
+    "icon": "rc/icon.png",
+    "source": "https://www.revenuecat.com/favicon/favicon-512x512.png",
+    "matchedBy": "official-homepage-apple-touch-icon",
+    "homepage": "https://www.revenuecat.com",
+    "mimeType": "image/png",
+    "sha256": "38fecf1bdab75567607eaa6f6c76521bc2603b91f7e8f90239d6ffce4a44f98b"
+  },
+  {
+    "name": "redis-development",
+    "icon": "redis-development/icon.png",
+    "source": "https://redis.io/icon.png?icon.027d90aa.png",
+    "matchedBy": "official-homepage-icon",
+    "homepage": "https://redis.io",
+    "mimeType": "image/png",
+    "sha256": "efd276caeb25d92ce6751ba7255b0e578ae43cfdbf031181c6f1061879189d92"
+  },
+  {
+    "name": "remember",
+    "icon": "remember/icon.png",
+    "source": "https://github.com/Digital-Process-Tools.png?size=512",
+    "matchedBy": "official-github-organization-avatar",
+    "mimeType": "image/png",
+    "sha256": "ed3f09d78410fc13a25a556ee7cd0e6c3c990f32d691671ad976d6b00b61875d"
+  },
+  {
+    "name": "render",
+    "icon": "render/icon.png",
+    "source": "/plugins/render/assets/logo.svg",
+    "mimeType": "image/png",
+    "sha256": "a8e2d8d9c86a14299f78d7781872aeecac63d270723c6822eae926f64791edfc"
+  },
+  {
+    "name": "resend",
+    "icon": "resend/icon.png",
+    "source": "https://resend.com/static/favicons/favicon-marketing@180x180.png?v=1",
+    "matchedBy": "official-homepage-apple-touch-icon",
+    "homepage": "https://resend.com",
+    "mimeType": "image/png",
+    "sha256": "08481b8305e60e382eff73c84b2f2e67524d3e9a9f0151922fd74171728bf9e0"
+  },
+  {
+    "name": "restore-legacy-sessions",
+    "icon": "restore-legacy-sessions/icon.png",
+    "source": "/Users/utom/Downloads/Frame 768592707.png",
+    "mimeType": "image/png",
+    "sha256": "f25a869f54f5c2369f8848f022af9a0adcaff1319f0fcdd0608496df62fa23b7"
+  },
+  {
+    "name": "revenuecat",
+    "icon": "revenuecat/icon.png",
+    "source": "https://www.revenuecat.com/favicon/favicon-512x512.png",
+    "matchedBy": "official-homepage-apple-touch-icon",
+    "homepage": "https://www.revenuecat.com",
+    "mimeType": "image/png",
+    "sha256": "38fecf1bdab75567607eaa6f6c76521bc2603b91f7e8f90239d6ffce4a44f98b"
+  },
+  {
+    "name": "rill",
+    "icon": "rill/icon.png",
+    "source": "https://docs.rilldata.com/img/favicon.png",
+    "matchedBy": "official-homepage-icon",
+    "homepage": "https://docs.rilldata.com/developers/build/ai-configuration",
+    "mimeType": "image/png",
+    "sha256": "a85fe202dd75b49d52bc6dcd1b147b5262bdcc30d62bd92e00d93287d49cd6fd"
+  },
+  {
+    "name": "rootly",
+    "icon": "rootly/icon.png",
+    "source": "https://cdn.prod.website-files.com/65eb28a668c15a253c5417a6/6914d3d1dab0589532851bfa_rootly-webclip.svg",
+    "matchedBy": "official-homepage-apple-touch-icon",
+    "homepage": "https://rootly.com",
+    "mimeType": "image/png",
+    "sha256": "b7fdb42e8109afd2af75a8f3e83a71a0e3ef6fae94b24305f4ab6794edc0ec52"
+  },
+  {
+    "name": "ruby-lsp",
+    "icon": "ruby-lsp/icon.png",
+    "source": "https://github.com/Shopify.png?size=512",
+    "matchedBy": "official-github-organization-avatar",
+    "mimeType": "image/png",
+    "sha256": "eb7adda44c7f9ec2c9c467c52afbe8b76186a65f351f6cd5f4e36b37d7f344f5"
+  },
+  {
+    "name": "runway-api",
+    "icon": "runway-api/icon.png",
+    "source": "https://runwayml.com/icon.png?icon.1qo8h6bl4klye.png",
+    "matchedBy": "official-homepage-icon",
+    "homepage": "https://runwayml.com",
+    "mimeType": "image/png",
+    "sha256": "e3b6219a38e848346582ccf4c87cee1867a6451ab30b77a1df9c1863225694c5"
+  },
+  {
+    "name": "rust-analyzer-lsp",
+    "icon": "rust-analyzer-lsp/icon.png",
+    "source": "https://github.com/rust-lang.png?size=512",
+    "matchedBy": "official-github-organization-avatar",
+    "mimeType": "image/png",
+    "sha256": "036f33fec5b5a6d1dba9d65871c2852d150bf1988c3ba539e45a66be50236b19"
+  },
+  {
+    "name": "sagemaker-ai",
+    "icon": "sagemaker-ai/icon.png",
+    "source": "https://a0.awsstatic.com/libra-css/images/site/touch-icon-ipad-144-smile.png",
+    "matchedBy": "official-homepage-apple-touch-icon",
+    "mimeType": "image/png",
+    "sha256": "461bba96760190de10cdafb2fbb05fdb18699ddc44ea57c1f363a304b16c92b5"
+  },
+  {
+    "name": "sanity",
+    "icon": "sanity/icon.png",
+    "source": "https://www.sanity.io/_astro/apple-icon-180x180.QY6ZQ2w3.png",
+    "matchedBy": "official-homepage-apple-touch-icon",
+    "homepage": "https://www.sanity.io",
+    "mimeType": "image/png",
+    "sha256": "a6abffc0358385bcf15abc149e45c5931575d8d333e90b312cb477944c673969"
+  },
+  {
+    "name": "sap-cds-mcp",
+    "icon": "sap-cds-mcp/icon.png",
+    "source": "https://cap.cloud.sap/docs/logos/cap.png",
+    "matchedBy": "official-homepage-apple-touch-icon",
+    "homepage": "https://cap.cloud.sap/",
+    "mimeType": "image/png",
+    "sha256": "fc19bee2a2cfe113d319792a92e4a6abf5fb86b68b7c76c4a6bc617d3d44e455"
+  },
+  {
+    "name": "sap-fiori-mcp-server",
+    "icon": "sap-fiori-mcp-server/icon.png",
+    "source": "https://github.com/SAP.png?size=512",
+    "matchedBy": "official-github-organization-avatar",
+    "mimeType": "image/png",
+    "sha256": "c976fe54a6bdf19a309f2e96ae52d62045bea8d627919d31f11001ebaf447977"
+  },
+  {
+    "name": "sap-hana-cli",
+    "icon": "sap-hana-cli/icon.png",
+    "source": "https://github.com/SAP-samples.png?size=512",
+    "matchedBy": "official-github-organization-avatar",
+    "mimeType": "image/png",
+    "sha256": "c976fe54a6bdf19a309f2e96ae52d62045bea8d627919d31f11001ebaf447977"
+  },
+  {
+    "name": "sap-mdk-server",
+    "icon": "sap-mdk-server/icon.png",
+    "source": "https://help.sap.com/resource/img/icon-512.png",
+    "matchedBy": "official-web-app-manifest",
+    "homepage": "https://help.sap.com/docs/MDK",
+    "mimeType": "image/png",
+    "sha256": "46c6b2dea3974371244bacb4c823311474e51fe35212737fb47a860cd8c6ef10"
+  },
+  {
+    "name": "save-to-spotify",
+    "icon": "save-to-spotify/icon.png",
+    "source": "https://github.com/spotify.png?size=512",
+    "matchedBy": "official-github-organization-avatar",
+    "mimeType": "image/png",
+    "sha256": "7666ace0b6a6432b821ff7969d3ba751e07e8ef82c16bcd577789fafd3b05eac"
+  },
+  {
+    "name": "semgrep",
+    "icon": "semgrep/icon.png",
+    "source": "https://github.com/semgrep.png?size=512",
+    "matchedBy": "official-github-organization-avatar",
+    "mimeType": "image/png",
+    "sha256": "16bfe5756df40304c29cdef272dd0a40c286d67b3b8762f4fd8c3ff6a5806f3d"
+  },
+  {
+    "name": "sentry",
+    "icon": "sentry/icon.png",
+    "source": "/plugins/sentry/assets/sentry.png",
+    "mimeType": "image/png",
+    "sha256": "67cd1b9db04a38c6e78cd63f4b3721f3cfcd332c37e1c7c246347eab150fa0b9"
+  },
+  {
+    "name": "sentry-cli",
+    "icon": "sentry-cli/icon.png",
+    "source": "/plugins/sentry/assets/sentry.png",
+    "matchedBy": "alias:sentry",
+    "mimeType": "image/png",
+    "sha256": "67cd1b9db04a38c6e78cd63f4b3721f3cfcd332c37e1c7c246347eab150fa0b9"
+  },
+  {
+    "name": "serena",
+    "icon": "serena/icon.png",
+    "source": "https://github.com/oraios.png?size=512",
+    "matchedBy": "official-github-organization-avatar",
+    "mimeType": "image/png",
+    "sha256": "96c7d717431722e69c66dbd268aaed456a0065c23d6f998e8e2b6ffdbbb07353"
+  },
+  {
+    "name": "servicenow-sdk",
+    "icon": "servicenow-sdk/icon.png",
+    "source": "https://servicenow.github.io/sdk/img/logo.png",
+    "matchedBy": "official-homepage-icon",
+    "homepage": "https://servicenow.github.io/sdk/",
+    "mimeType": "image/png",
+    "sha256": "8ff601944d6b92a3d6170b532e9aaa05a867809c3815b539fef2ff0880ac6d51"
+  },
+  {
+    "name": "shopify-ai-toolkit",
+    "icon": "shopify-ai-toolkit/icon.png",
+    "source": "/plugins/shopify/assets/logo-padded.svg",
+    "matchedBy": "alias:shopify",
+    "mimeType": "image/png",
+    "sha256": "37873587ad01c059a072fdbd70208bbb61eef725db1135a44957d3f5d64b20d2"
+  },
+  {
+    "name": "skill-creator",
+    "icon": "skill-creator/icon.png",
+    "source": "/Users/utom/Downloads/skill-creator.png",
+    "mimeType": "image/png",
+    "sha256": "7501368309eeaa25e95b2249170367a22af0e95a8afb4f438f94ba2637700d86"
+  },
+  {
+    "name": "slack",
+    "icon": "slack/icon.png",
+    "source": "/plugins/slack/assets/app-icon.png",
+    "mimeType": "image/png",
+    "sha256": "95fc65954cfb1283038796fa5b19bd2745e05ede190af50b71fa781491ae9606"
+  },
+  {
+    "name": "snowflake-cortex-code",
+    "icon": "snowflake-cortex-code/icon.png",
+    "source": "https://github.com/Snowflake-Labs/snowflake-ai-kit/blob/main/actions/cortex-code/assets/logo.png",
+    "matchedBy": "official-repository-asset",
+    "mimeType": "image/png",
+    "sha256": "7d62420ff28f0c115a2aed16a93f5eb339d42d3085100ee91ba2bd0030c690d9"
+  },
+  {
+    "name": "sonarqube",
+    "icon": "sonarqube/icon.png",
+    "source": "https://www.sonarsource.com/favicon.ico",
+    "matchedBy": "official-homepage-fallback",
+    "homepage": "https://www.sonarsource.com",
+    "mimeType": "image/png",
+    "sha256": "1419d9cc7955a1cd6a1158972970bf54a703e3342f47c4c4f8eab701cf5f845d"
+  },
+  {
+    "name": "sonatype-guide",
+    "icon": "sonatype-guide/icon.png",
+    "source": "https://github.com/sonatype.png?size=512",
+    "matchedBy": "official-github-organization-avatar",
+    "mimeType": "image/png",
+    "sha256": "8528ac6d8d2c967f30e71c09df6bd8e310502183b0b675dc04b1bae18c95d671"
+  },
+  {
+    "name": "sourcegraph",
+    "icon": "sourcegraph/icon.png",
+    "source": "https://sourcegraph.com/.assets/img/sourcegraph-mark.svg?v4",
+    "matchedBy": "official-homepage-fallback",
+    "homepage": "https://sourcegraph.com",
+    "mimeType": "image/png",
+    "sha256": "71ff7af343f53c04787fb97f294bf2e31804b3228bd949e5f3ae184698e463eb"
+  },
+  {
+    "name": "spanner",
+    "icon": "spanner/icon.png",
+    "source": "https://services.google.com/fh/files/misc/core-products-icons.zip",
+    "matchedBy": "official-product-icon-library",
+    "mimeType": "image/png",
+    "sha256": "231b8c6eded6a392c6369a7d7ae962c72f291db0939eb9d2fc59b9425e2f59b4"
+  },
+  {
+    "name": "spotify-ads-api",
+    "icon": "spotify-ads-api/icon.png",
+    "source": "https://github.com/spotify.png?size=512",
+    "matchedBy": "official-github-organization-avatar",
+    "mimeType": "image/png",
+    "sha256": "7666ace0b6a6432b821ff7969d3ba751e07e8ef82c16bcd577789fafd3b05eac"
+  },
+  {
+    "name": "stripe",
+    "icon": "stripe/icon.png",
+    "source": "/plugins/stripe/assets/app-icon.png",
+    "mimeType": "image/png",
+    "sha256": "cc11a9a66a5d826bf072495c51ca1e425c09754726fa41fe6b3766449d675bcb"
+  },
+  {
+    "name": "sumup",
+    "icon": "sumup/icon.png",
+    "source": "https://static.sumup.com/favicons/apple-touch-icon.png",
+    "matchedBy": "official-homepage-apple-touch-icon",
+    "homepage": "https://www.sumup.com/",
+    "mimeType": "image/png",
+    "sha256": "4e343f67ab98d13bf2474921ba37328f192282369f4a9662b25374debb7082a4"
+  },
+  {
+    "name": "supabase",
+    "icon": "supabase/icon.png",
+    "source": "/plugins/supabase/assets/logo.png",
+    "mimeType": "image/png",
+    "sha256": "c316111b7cfa527a9ecbd7c32fb6f9f0c6c78b5e21dfdde6c870a4a05d1d1d60"
+  },
+  {
+    "name": "superpowers",
+    "icon": "superpowers/icon.png",
+    "source": "/plugins/superpowers/assets/superpowers-small.svg",
+    "mimeType": "image/png",
+    "sha256": "4b324e9796754eaf5801f5b2f48be626a7e36ecf91f793fb6fdf1b8a7d4a30b9"
+  },
+  {
+    "name": "swift-lsp",
+    "icon": "swift-lsp/icon.png",
+    "source": "https://github.com/swiftlang.png?size=512",
+    "matchedBy": "official-github-organization-avatar",
+    "mimeType": "image/png",
+    "sha256": "d4193b1a34ae790dc2b043bf7ac1c4946a47228f77d97a8219541248e89e0489"
+  },
+  {
+    "name": "tavily",
+    "icon": "tavily/icon.png",
+    "source": "https://www.tavily.com/favicon.ico",
+    "matchedBy": "official-homepage-shortcut icon",
+    "homepage": "https://www.tavily.com/",
+    "mimeType": "image/png",
+    "sha256": "a71b6bfce7777a2dfb8f04ecbcc296f9b837b5286e26e0d97bee2b52e220f40f"
+  },
+  {
+    "name": "teamcity-cli",
+    "icon": "teamcity-cli/icon.png",
+    "source": "https://www.jetbrains.com/icon-512.png?r=1234",
+    "matchedBy": "official-homepage-icon",
+    "homepage": "https://www.jetbrains.com/teamcity/",
+    "mimeType": "image/png",
+    "sha256": "c4384a706c75f6781e8f7cd0808d4e6cbe859167bf7683439b2f92a33ef3124c"
+  },
+  {
+    "name": "telegram",
+    "icon": "telegram/icon.png",
+    "source": "https://github.com/telegramdesktop.png?size=512",
+    "matchedBy": "official-github-organization-avatar",
+    "mimeType": "image/png",
+    "sha256": "73e1e9f7cde285a436b35071a8083ae613bbc52d42b0aa2a225c00cf9ca9997e"
+  },
+  {
+    "name": "terraform",
+    "icon": "terraform/icon.png",
+    "source": "https://github.com/hashicorp.png?size=512",
+    "matchedBy": "official-github-organization-avatar",
+    "mimeType": "image/png",
+    "sha256": "6240c58d7aa7da1b4b68aee22934f727566558911cd2dc5b9070038aba40392a"
+  },
+  {
+    "name": "togetherai-skills",
+    "icon": "togetherai-skills/icon.png",
+    "source": "https://cdn.prod.website-files.com/69654e88dce9154b5f1206dd/69a59cff65ed0f267dd2fbe8_touchicon.png",
+    "matchedBy": "official-homepage-apple-touch-icon",
+    "homepage": "https://www.together.ai",
+    "mimeType": "image/png",
+    "sha256": "fae7e309cbc0bde28eab6ea19403cdf78722e543ab630d98c8694703b7d38d82"
+  },
+  {
+    "name": "twilio-developer-kit",
+    "icon": "twilio-developer-kit/icon.png",
+    "source": "/plugins/twilio-developer-kit/assets/logo.svg",
+    "mimeType": "image/png",
+    "sha256": "befaa7bde2dd24405328eb390d5dcb4548aa4a7f34a95bb99603904d0e5d86d0"
+  },
+  {
+    "name": "typescript-lsp",
+    "icon": "typescript-lsp/icon.png",
+    "source": "https://github.com/microsoft.png?size=512",
+    "matchedBy": "official-github-organization-avatar",
+    "mimeType": "image/png",
+    "sha256": "45cbf30a0ff55e2f0c0672f0c86621cc9a7f0642c69523c6f144d3f16cb6b9c4"
+  },
+  {
+    "name": "ui5",
+    "icon": "ui5/icon.png",
+    "source": "https://github.com/UI5.png?size=512",
+    "matchedBy": "official-github-organization-avatar",
+    "mimeType": "image/png",
+    "sha256": "a8384578a86e4e7ae1fe273572ffff566d748c98b7eb6eff1321294005bd8b2b"
+  },
+  {
+    "name": "ui5-modernization",
+    "icon": "ui5-modernization/icon.png",
+    "source": "https://github.com/UI5.png?size=512",
+    "matchedBy": "official-github-organization-avatar",
+    "mimeType": "image/png",
+    "sha256": "a8384578a86e4e7ae1fe273572ffff566d748c98b7eb6eff1321294005bd8b2b"
+  },
+  {
+    "name": "ui5-typescript-conversion",
+    "icon": "ui5-typescript-conversion/icon.png",
+    "source": "https://github.com/UI5.png?size=512",
+    "matchedBy": "official-github-organization-avatar",
+    "mimeType": "image/png",
+    "sha256": "a8384578a86e4e7ae1fe273572ffff566d748c98b7eb6eff1321294005bd8b2b"
+  },
+  {
+    "name": "unreal-engine-skills-for-claude-code",
+    "icon": "unreal-engine-skills-for-claude-code/icon.png",
+    "source": "https://edc-cdn.net/assets/images/favicon-light.png",
+    "matchedBy": "official-homepage-icon",
+    "homepage": "https://dev.epicgames.com/documentation/unreal-engine/unreal-mcp-in-unreal-editor",
+    "mimeType": "image/png",
+    "sha256": "75e7f1221c7d6c0e74e121841b333968fef0fdb313667be2dd0f742e189852cf"
+  },
+  {
+    "name": "valtown",
+    "icon": "valtown/icon.png",
+    "source": "https://www.val.town/favicon.svg",
+    "matchedBy": "official-structured-app-icon",
+    "homepage": "https://val.town",
+    "mimeType": "image/png",
+    "sha256": "e26708d2b5d20a6c519168dbeb84981172657dc2a78a089b407fe82e139d2ef7"
+  },
+  {
+    "name": "vanta",
+    "icon": "vanta/icon.png",
+    "source": "https://intercom.help/vanta-ceb3b688ec0b/assets/favicon",
+    "matchedBy": "official-homepage-apple-touch-icon",
+    "homepage": "https://help.vanta.com/en/articles/14094979-connecting-to-vanta-mcp#h_887ce3f337",
+    "mimeType": "image/png",
+    "sha256": "89cc24c65356d26e4e3576e8a2d7d0f60c92c847f4ebe4acb824a7e7a8159e11"
+  },
+  {
+    "name": "vanta-mcp-plugin",
+    "icon": "vanta-mcp-plugin/icon.png",
+    "source": "https://intercom.help/vanta-ceb3b688ec0b/assets/favicon",
+    "matchedBy": "official-homepage-apple-touch-icon",
+    "homepage": "https://help.vanta.com/en/articles/14094979-connecting-to-vanta-mcp#h_887ce3f337",
+    "mimeType": "image/png",
+    "sha256": "89cc24c65356d26e4e3576e8a2d7d0f60c92c847f4ebe4acb824a7e7a8159e11"
+  },
+  {
+    "name": "vercel",
+    "icon": "vercel/icon.png",
+    "source": "/plugins/vercel/assets/logo-padded.png",
+    "mimeType": "image/png",
+    "sha256": "b0a1e1448cba37213ff09d46e872695ae6f0167f420a699a79695a1b24cf3fc5"
+  },
+  {
+    "name": "vibe-prospecting",
+    "icon": "vibe-prospecting/icon.png",
+    "source": "https://www.vibeprospecting.ai/favicon.ico",
+    "matchedBy": "official-homepage-favicon",
+    "mimeType": "image/png",
+    "sha256": "bfb51c8f57030633d119fd85cf61149d191a213d6e2f0f7f6bc2eb3b22e2dcbc"
+  },
+  {
+    "name": "vsql-extension-builder",
+    "icon": "vsql-extension-builder/icon.png",
+    "source": "https://villagesql.com/assets/pelican.png",
+    "matchedBy": "official-homepage-apple-touch-icon",
+    "homepage": "https://villagesql.com",
+    "mimeType": "image/png",
+    "sha256": "3bc9628c8e6cc8962860e2159eb723532dbe418316c8964b210745f4b8475440"
+  },
+  {
+    "name": "windsor-ai",
+    "icon": "windsor-ai/icon.png",
+    "source": "/plugins/windsor-ai/assets/logo.png",
+    "mimeType": "image/png",
+    "sha256": "1d6d4987e823cae684d8afeec94178fdd0596dfb532c659f869ae58efdbf4680"
+  },
+  {
+    "name": "wix",
+    "icon": "wix/icon.png",
+    "source": "/plugins/wix/assets/logo.svg",
+    "mimeType": "image/png",
+    "sha256": "cf86ec81c50ea7683a43ad0d5f6bc58a19b42388cb987de92121f85084e1f601"
+  },
+  {
+    "name": "workos",
+    "icon": "workos/icon.png",
+    "source": "https://cdn.prod.website-files.com/621f54116cab10f6e9215d8b/621f549024eb2947f6f2f7f7_Favicon%20256x256.png",
+    "matchedBy": "official-homepage-apple-touch-icon",
+    "homepage": "https://workos.com",
+    "mimeType": "image/png",
+    "sha256": "474189460985042ea1ca2e582bebac273d5c842923499fe7f24ceb90a7eb7d13"
+  },
+  {
+    "name": "youdotcom-agent-skills",
+    "icon": "youdotcom-agent-skills/icon.png",
+    "source": "https://cdn.prod.website-files.com/687f2dca0cbe61df74670d33/688bc528f3605c450d622b2f_webclip.png",
+    "matchedBy": "official-homepage-apple-touch-icon",
+    "homepage": "https://you.com",
+    "mimeType": "image/png",
+    "sha256": "96906c2f20d2d1e00f4d750542e6146701b47d12ea4c5daa8bb3bf684c7bbaa2"
+  },
+  {
+    "name": "zapier",
+    "icon": "zapier/icon.png",
+    "source": "https://github.com/zapier.png?size=512",
+    "matchedBy": "official-github-organization-avatar",
+    "mimeType": "image/png",
+    "sha256": "740df7689eade977d33551041e362e7cf8ed3d06c3c94f863bb80df76824623c"
+  },
+  {
+    "name": "zcode-cua",
+    "icon": "zcode-cua/icon.png",
+    "source": "/Users/utom/Downloads/Frame 768592709.png",
+    "mimeType": "image/png",
+    "sha256": "dd6624d39a0e36f579c794542dc7506ec22f3ccd352e7c36187d173522f54d4b"
+  },
+  {
+    "name": "zilliz",
+    "icon": "zilliz/icon.png",
+    "source": "https://docs.zilliz.com/icons/favicon.svg",
+    "matchedBy": "official-homepage-icon",
+    "homepage": "https://docs.zilliz.com",
+    "mimeType": "image/png",
+    "sha256": "a0001d2f7d8de81c7055d9294865838ba93430d9fe2a9fe56ac76d0aefcc279f"
+  },
+  {
+    "name": "zoom-plugin",
+    "icon": "zoom-plugin/icon.png",
+    "source": "/plugins/zoom/assets/app-icon.svg",
+    "matchedBy": "alias:zoom",
+    "mimeType": "image/png",
+    "sha256": "07d2ffd11e3debc12056a6862185b6fc1096ea29935cdcdf7e274dabc1664788"
+  },
+  {
+    "name": "zoominfo",
+    "icon": "zoominfo/icon.png",
+    "source": "/plugins/zoominfo/assets/logo.png",
+    "mimeType": "image/png",
+    "sha256": "6d932af97b871dbdad8852808fb18b1da2b3348ce66502440ce05a5bcc968bcc"
+  },
+  {
+    "name": "zscaler",
+    "icon": "zscaler/icon.png",
+    "source": "https://github.com/zscaler.png?size=512",
+    "matchedBy": "official-github-organization-avatar",
+    "mimeType": "image/png",
+    "sha256": "08e64e01254fd333948c7563d255e4e76786d420e4ca28d1f420036524a805e8"
+  },
+  {
+    "name": "zyte-web-data",
+    "icon": "zyte-web-data/icon.png",
+    "source": "https://www.zyte.com/apple-touch-icon.png?v=2",
+    "matchedBy": "official-homepage-apple-touch-icon",
+    "homepage": "https://www.zyte.com",
+    "mimeType": "image/png",
+    "sha256": "8613b1dc383a3b6090a8a81aefc13f4867667fbf1902dc35471f8d554e69a1cd"
+  }
+]

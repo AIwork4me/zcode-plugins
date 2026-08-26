@@ -1,0 +1,5 @@
+dist/
+!plugins/mimosa/payload/dist/
+!plugins/mimosa/payload/dist/**
+__pycache__/
+.DS_Store

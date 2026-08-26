@@ -1,0 +1,27 @@
+* text=auto
+
+# Signed payload inventories are generated from LF-normalized source bytes.
+# Keep checkout bytes deterministic on Windows, macOS, and Linux.
+*.cjs text eol=lf
+*.js text eol=lf
+*.json text eol=lf
+*.md text eol=lf
+*.mjs text eol=lf
+*.py text eol=lf
+*.yaml text eol=lf
+*.yml text eol=lf
+
+# Protected Mimosa payloads are opaque binary artifacts.
+*.mimosa binary
+
+# Internal operations never reach the public snapshot (git archive honours
+# export-ignore). The public repository keeps the validators, the GitHub
+# workflows, the plugins and the documentation — everything a contributor
+# needs and nothing about how releases are operated.
+.gitlab-ci.yml                   export-ignore
+.gitlab/                         export-ignore
+scripts/sync_external_prs.py     export-ignore
+scripts/publish_incremental.py   export-ignore
+tests/test_sync_external_prs.py  export-ignore
+tests/test_distribution.py       export-ignore
+tests/test_public_docs.py        export-ignore
