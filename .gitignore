@@ -3,3 +3,8 @@ dist/
 !plugins/mimosa/payload/dist/**
 __pycache__/
 .DS_Store
+
+# Written by scripts/sync_external_prs.py for the CI after_script; never committed.
+mirror-failure.txt
+mirror-result.txt
+publish-failure.txt
