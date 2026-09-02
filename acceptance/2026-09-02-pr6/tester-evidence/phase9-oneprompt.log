@@ -1,0 +1,23 @@
+AI SDK Warning System: To turn off warning logging, set the AI_SDK_LOG_WARNINGS global to false.
+AI SDK Warning (anthropic.messages / glm-5.1): The feature "cacheControl breakpoint limit" is not supported. Maximum 4 cache breakpoints exceeded (found 5). This breakpoint will be ignored.
+✅ 视频已完成并通过验证。
+
+**最终 MP4 路径：** `C:\Users\rocm\Desktop\zcode-remotion-marketplace-e2e\promo\out\zcode-remotion-promo.mp4`
+
+## 交付内容
+10 秒 / 4 场景的宣传视频(项目位于 `promo/`,合成代码在 `src/Composition.tsx`):
+
+1. **0–2.5s 品牌开场** — Logo 图标 spring 弹入 + SVG 折线描边动画，“ZCode Remotion Plugin” 渐变大标题
+2. **2.5–5s 终端打字** — “One prompt is all it takes” + 仿终端窗口逐字打出 `> make me a 10s promo video`,带闪烁光标
+3. **5–7.5s 管线动画** — 四个节点(One prompt → Remotion skills → Visual QA → Verified MP4)依次点亮，渐变连接线随之生长
+4. **7.5–10s 验证交付** — `promo.mp4` 文件卡片 + 绿色对勾 spring 盖章 + “Rendered. Checked. Delivered.”
+
+全程持续动态背景：漂移的青/紫光晕、缓慢滚动的网格、上浮粒子，非静态切页。
+
+## 验证结果
+- **文件存在且非空：** 2.06 MB(2,063,298 字节)
+- **ffmpeg(Remotion 内置)：** Duration 00:00:10.05,H.264 (avc1),1920×1080 [16:9],30 fps ✓
+
+## QA 说明(一项限制)
+静帧 QA 无法使用视觉模型：当前模型与 judge 子代理均不支持图像输入，MCP 图像分析也因本地 URL 不可达而失败。改为程序化客观 QA:4 张代表帧(frame 40/125/210/280)均通过 — 非空白(3,600–10,000+ 颜色、正常方差)、30px 边缘内无内容(无文字裁切)、亮度正常；并复核了布局数学(所有元素在安全区内)。主观视觉观感未经人工/视觉模型确认，如需我可启动 Remotion Studio 供你预览。
+EXIT=0

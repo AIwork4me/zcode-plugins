@@ -1,0 +1,18 @@
+=== Phase 4 runtime discovery (engine zcode.cjs 0.16.5, fresh processes) ===
+
+$ node zcode.cjs plugins list
+- zcode-remotion@zcode-plugins-official [enabled]
+  cache/zcode-plugins-official: C:\Users\rocm\.zcode\cli\plugins\cache\zcode-plugins-official\zcode-remotion\0.2.5
+  skills: 1, commands: 1, hooks: 0, mcp: none
+
+$ node zcode.cjs skills list
+Available skills (39)
+- zcode-remotion:remotion (user/plugin; alias remotion)
+  Reliable Remotion video workflow for ZCode. ...
+  C:\Users\rocm\.zcode\cli\plugins\cache\zcode-plugins-official\zcode-remotion\0.2.5\skills\remotion\SKILL.md
+
+$ node zcode.cjs commands list
+Custom commands (3)
+- /remotion-doctor   (user/plugin; .../0.2.5/commands/remotion-doctor.md)
+- /remotion-setup [--project]  (user/plugin; .../0.2.5/commands/remotion-setup.md)
+- /remotion-update   (user/plugin; .../0.2.5/commands/remotion-update.md)

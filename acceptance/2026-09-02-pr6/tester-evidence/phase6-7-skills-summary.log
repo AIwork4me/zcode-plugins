@@ -1,0 +1,11 @@
+=== Phase 6 /remotion-setup (fresh headless session, cwd=zcode-remotion-marketplace-e2e) ===
+Result: Node v24.16.0 preflight OK; scope=global/user (~/.zcode/skills);
+installer invoked: npx -y skills add remotion-dev/skills -s '*' -y --copy -g;
+official installer also mirrored copies into ~/.agents/skills;
+verification: Official Remotion skills: 12/12 present, status COMPLETE (session report + tester disk check).
+Full transcript: phase6-remotion-setup.log
+
+=== Phase 7 skill refresh/visibility (fresh engine process) ===
+skills list: 63 total (was 39 before install); all 12 remotion-* skills visible
+(each in user/zcode + user/agents scopes); none disabled.
+Desktop Settings→Skills→Refresh button: NOT TESTED (UI-only); engine discovery path verified instead.

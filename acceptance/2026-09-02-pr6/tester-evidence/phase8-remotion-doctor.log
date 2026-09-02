@@ -1,0 +1,29 @@
+# Remotion Doctor Report
+
+All checks completed; no changes were made to the environment.
+
+| Check | Result | Evidence | Fix |
+|---|---|---|---|
+| 1. Node ≥ 18 | ✅ PASS | `v24.16.0` | none |
+| 2. npx | ✅ PASS | `11.13.0` | none |
+| 3. Package manager | ✅ npm (default) | workspace has no lockfile or `package.json` | none |
+| 4. Official skills complete | ✅ PASS | `node skill-paths.mjs` → scope: user (`~\.zcode\skills`), 12/12 present, COMPLETE, no extras | none |
+| 5. Official skills current | ✅ PASS | installed `remotion-best-practices` v4.0.520 == latest official release v4.0.520 | none |
+| 6. Remotion project state | ➖ N/A | workspace is empty — no `remotion`/`@remotion/*` dependencies declared | run `/remotion` (remotion-setup) to scaffold |
+| 7. Chrome Headless Shell | ➖ N/A | no Remotion project, so `npx remotion browser ensure` not applicable | after scaffolding, it downloads automatically; see https://www.remotion.dev/docs/chrome-headless-shell |
+| 8. License awareness | ✅ INFO-PASS | Remotion upstream license terms apply — see https://www.remotion.pro and the plugin's `NOTICE.md` | do not bypass licensing behavior |
+
+**Summary: 5/8 checks passed, 3 N/A (checks 6–8 context noted), 0 failures.**
+
+```text
+Remotion installed : none (no project in this workspace)
+Remotion latest    : 4.0.520
+Verified baseline  : 4.0.520 (compatibility/remotion.json, verified 2026-09-01)
+Skills installed   : 4.0.520 (12/12, user scope) | latest 4.0.520 | expected count 12
+Mediabunny pairing : 1.55.5 (recorded baseline)
+```
+
+**Highest-priority next action:** none required — the environment is healthy. If you intend to build a video here, scaffold a Remotion project first (the `remotion` / `remotion-setup` workflow), which also triggers the Chrome Headless Shell download that check 7 couldn't verify.
+
+Note: for Remotion API-specific questions, use the official `remotion-docs` skill.
+EXIT=0

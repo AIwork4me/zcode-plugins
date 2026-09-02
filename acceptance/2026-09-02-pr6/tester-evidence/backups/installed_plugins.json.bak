@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "plugins": [
+    {
+      "id": "superpowers@claude-plugins-official",
+      "name": "superpowers",
+      "marketplace": "claude-plugins-official",
+      "version": "6.3.0",
+      "installPath": "C:\\Users\\rocm\\.zcode\\cli\\plugins\\cache\\claude-plugins-official\\superpowers\\6.3.0",
+      "installedAt": "2026-08-30T12:33:25.274Z",
+      "updatedAt": "2026-08-30T12:33:25.274Z",
+      "scope": "user",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/obra/superpowers.git",
+        "sha": "b36e0829c6d0140e93cfef2ca599b1b07d4a7797"
+      },
+      "cacheTransactionId": "c7734355-59a4-4a8d-8476-3f7f4ca29773"
+    }
+  ]
+}

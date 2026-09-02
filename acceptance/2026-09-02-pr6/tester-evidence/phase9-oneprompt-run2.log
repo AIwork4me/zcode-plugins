@@ -1,0 +1,29 @@
+视频已完成并通过全部验证。最终文件：
+
+**`C:\Users\rocm\Desktop\zcode-remotion-marketplace-e2e-run2\zcode-promo\out\ZCode-Remotion-Plugin-Promo.mp4`**
+
+## 验证结果（ffprobe 实测）
+
+| 项目 | 结果 |
+|---|---|
+| 文件存在 / 大小 | ✅ 3,493,835 字节（3.5 MB，非空） |
+| 时长 | ✅ 10.05s（视频流 300 帧 @ 30fps = 整 10 秒，容器多出的 0.05s 来自 Remotion 默认封装的静音音轨） |
+| 分辨率 | ✅ 1920×1080，DAR 16:9 |
+| 视频流 | ✅ H.264 (avc1)，yuvj420p，30 fps，约 2466 kb/s |
+
+## 内容与动效（10 秒，3 个场景 + 滑动转场）
+
+1. **开场（0–3.7s）**：终端窗口弹入，`$ zcode render promo.mp4` 逐字打字 + 光标闪烁，输出绿色 `✓ 300 frames · visual QA passed`；下方 "ZCode Remotion Plugin" 渐变标题弹性升起 + 副标题 "From prompt to verified video."
+2. **流水线（3.3–7.1s）**："HOW IT WORKS" 下，四步时间轴依次弹入——**One prompt → Official Remotion skills → Visual QA → Verified MP4**（绿色 + 勾选圆环描边动画），竖向连接线渐次绘制、青色脉冲点循环下滑，右侧配等宽字注释（"duration · resolution · stream"）
+3. **收尾（6.7–10s）**：大字品牌卡 "ZCode / Remotion Plugin" + "One prompt in. Verified MP4 out." + 绿色认证徽章胶囊 "VERIFIED OUTPUT · MP4 · 1920×1080 · 30 FPS"
+
+全程有持续动态（打字机、光标闪烁、漂移光晕、脉冲点、弹簧入场、缓慢推近），不是静态切页。
+
+## 流程记录
+
+- 按官方流程先渲染 6 张代表性静帧自检：三个场景均无文字裁切、重叠、低对比度、黑屏或资源缺失。期间修复了两处代码问题（`translateY` 改为合法的 `translate` CSS 属性、`Folder` 组件参数 `id`→`name`），复检通过后才做完整渲染
+- 使用官方 `create-video` 脚手架 + `@remotion/transitions` + Google Fonts（Inter / JetBrains Mono，渲染时已成功加载——静帧中的字体即证据）
+- 项目源码在 `C:\Users\rocm\Desktop\zcode-remotion-marketplace-e2e-run2\zcode-promo\src\`，每个场景单独注册了 composition，可在 `npx remotion studio` 里单独调整
+
+唯一说明：视频封装了一轨 Remotion 默认的静音 AAC 音轨，未配 BGM（你没有要求音频）。如需配乐或调整节奏/文案，源码改一两处即可重渲。
+EXIT=0

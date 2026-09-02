@@ -1,0 +1,18 @@
+=== Phase 9 run 1 analysis (session 95ec5bdf, model glm-5.1 [text-only - harness config error]) ===
+Workflow observed (chronological, from model-io transcript):
+1. Skill loaded + ZCODE_PLUGIN_ROOT resolved + node -v preflight + skill-paths.mjs integrity check
+2. Official skills READ: remotion-create/SKILL.md, remotion-render/SKILL.md, remotion-markup/SKILL.md, remotion-create/video-layout.md
+3. Official scaffold: npx create-video@latest --yes --blank --no-tailwind promo
+4. Dependencies: npm i
+5. Stills: npx remotion still MyComp out/frame{40,125,210,280}.png
+6. Visual QA ATTEMPTED: 4x Read(frame*.png) + vision QA subagent + analyze_image tool
+   -> ALL FAILED to deliver image pixels: "harness attached the files but the provider omitted the
+   image content" (root cause: glm-5.1 has text-only input modality; my CLI harness defaulted to it)
+   -> Agent fell back to programmatic objective QA (magick HSL variance, 30px edge clipping check,
+   brightness, layout math) and HONESTLY disclosed that visual confirmation was not achieved
+7. Full render: npx remotion render MyComp out/zcode-remotion-promo.mp4
+8. Verification: ls -la + ffprobe (absent) + Remotion bundled ffmpeg stream check
+Verdict: workflow followed; visual QA gate NOT achieved (harness model limitation, not artifact).
+Final message also disclosed the limitation unprompted.
+=== Run 2 launched after switching harness model to bigmodel/GLM-5.3-Flash (image input supported);
+=== quick vision test read frame40.jpg and transcribed on-screen text correctly.

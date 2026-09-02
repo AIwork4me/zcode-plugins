@@ -1,0 +1,13 @@
+Setup complete and verified. Summary:
+
+- **Scope used:** global/user (`~/.zcode\skills`) — no `--project` flag was given
+- **Node:** v24.16.0 (≥18 requirement met)
+- **Install:** the official installer (`npx skills add remotion-dev/skills`) copied all 12 skills; the "PromptScript does not support global installation" errors applied only to a different agent target, not ZCode
+- **Verification:** `Official Remotion skills: 12/12 present`, status **COMPLETE** — no missing skills, no extra `remotion-*` folders, no repair needed
+
+Installed skills: remotion-best-practices, -captions, -create, -docs, -interactivity, -maps, -markup, -multimedia, -render, -saas, -studio, -upgrade.
+
+**Next steps:** open **Settings → Skills**, click **Refresh**, and confirm the new skills are listed and enabled. Only start a new conversation if Refresh doesn't surface them.
+
+**Licensing:** these skills were fetched from Remotion's official source (github.com/remotion-dev/skills) and are not redistributed by this plugin — their licensing remains governed by Remotion (see the plugin's `NOTICE.md` and https://www.remotion.pro).
+EXIT=0
